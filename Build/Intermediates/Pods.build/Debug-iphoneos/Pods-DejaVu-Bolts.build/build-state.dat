@@ -1,0 +1,917 @@
+TPods-DejaVu-Bolts
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-gmmxrazvnvqgcdddlevmbzvwxyli/Pods-DejaVu-Bolts-prefix.pch.pch Pods-DejaVu-Bolts-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-ewuacsjohrjjjbgkdurzsnozxdoa/Pods-DejaVu-Bolts-prefix.pch.pch Pods-DejaVu-Bolts-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLink.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkNavigation.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkNavigation.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkReturnToRefererController.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkReturnToRefererView.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkTarget.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFExecutor.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFExecutor.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFTask.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTask.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFTaskCompletionSource.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTaskCompletionSource.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFURL.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFURL.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFWebViewAppLinkResolver.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/Bolts.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/Bolts.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/Pods-DejaVu-Bolts-dummy.o /Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-Bolts-dummy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/libPods-DejaVu-Bolts.a normal arm64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c0000000053119F860000000000000132
+t1393663878
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c000000005354294B000000000000036B
+t1398024523
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005354294C000000000000019E
+t1398024524
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005354294F0000000000A90C10
+t1398024527
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000535429990000000000000ADC
+t1398024601
+s2780
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLink.o
+t1402846359
+s13720
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkNavigation.o
+t1402846359
+s36548
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkReturnToRefererController.o
+t1402846359
+s87900
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkReturnToRefererView.o
+t1402846359
+s97336
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkTarget.o
+t1402846359
+s10696
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFExecutor.o
+t1402846359
+s28972
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFTask.o
+t1402846360
+s65516
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFTaskCompletionSource.o
+t1402846360
+s16496
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFURL.o
+t1402846360
+s30152
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFWebViewAppLinkResolver.o
+t1402846360
+s105632
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/Bolts.o
+t1402846360
+s6212
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/Pods-DejaVu-Bolts-dummy.o
+t1402846360
+s4240
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/Pods-DejaVu-Bolts.LinkFileList
+c00000000539DBC9600000000000006C8
+t1402846358
+s1736
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLink.o
+t1402846926
+s11100
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkNavigation.o
+t1402846926
+s32264
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererController.o
+t1402846926
+s86844
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererView.o
+t1402846927
+s92316
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkTarget.o
+t1402846927
+s8816
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFExecutor.o
+t1402846927
+s26204
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFTask.o
+t1402846927
+s60636
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFTaskCompletionSource.o
+t1402846927
+s14792
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFURL.o
+t1402846927
+s26644
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFWebViewAppLinkResolver.o
+t1402846927
+s98340
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/Bolts.o
+t1402846927
+s5356
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/Pods-DejaVu-Bolts-dummy.o
+t1402846927
+s3756
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/Pods-DejaVu-Bolts.LinkFileList
+c00000000539DBECE00000000000006C8
+t1402846926
+s1736
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-cmwfjscwlxlejgaoaegoldyoexip/Pods-DejaVu-Bolts-prefix.pch.pch
+t1402809056
+s99308
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-dlczvliaqygrhbcgawlbcivucmbh/Pods-DejaVu-Bolts-prefix.pch.pch
+t1402809056
+s98344
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-ewuacsjohrjjjbgkdurzsnozxdoa/Pods-DejaVu-Bolts-prefix.pch.pch
+t1402846359
+s120956
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-gmmxrazvnvqgcdddlevmbzvwxyli/Pods-DejaVu-Bolts-prefix.pch.pch
+t1402846359
+s121948
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/libPods-DejaVu-Bolts.a
+t1402849285
+s508688
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.h
+c00000000539C8281000000000000065F
+t1402765953
+s1631
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.m
+c00000000539C828100000000000004B5
+t1402765953
+s1205
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkNavigation.h
+c00000000539C82810000000000000DCD
+t1402765953
+s3533
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkNavigation.m
+c00000000539C82810000000000001C8E
+t1402765953
+s7310
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkResolving.h
+c00000000539C82810000000000000352
+t1402765953
+s850
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.h
+c00000000539C82810000000000000B9D
+t1402765953
+s2973
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m
+c00000000539C82810000000000002580
+t1402765953
+s9600
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.h
+c00000000539C82810000000000000C55
+t1402765953
+s3157
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m
+c00000000539C82810000000000001CC2
+t1402765953
+s7362
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView_Internal.h
+c00000000539C828100000000000001B5
+t1402765953
+s437
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.h
+c00000000539C828100000000000003F0
+t1402765953
+s1008
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.m
+c00000000539C828100000000000002C8
+t1402765953
+s712
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFExecutor.h
+c00000000539C82810000000000000581
+t1402765953
+s1409
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFExecutor.m
+c00000000539C82810000000000000DD5
+t1402765953
+s3541
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTask.h
+c00000000539C828100000000000011D7
+t1402765953
+s4567
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTask.m
+c00000000539C8281000000000000279B
+t1402765953
+s10139
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTaskCompletionSource.h
+c00000000539C828100000000000007DC
+t1402765953
+s2012
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTaskCompletionSource.m
+c00000000539C828100000000000006BF
+t1402765953
+s1727
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFURL.h
+c00000000539C828100000000000006CC
+t1402765953
+s1740
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFURL.m
+c00000000539C8281000000000000143C
+t1402765953
+s5180
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.h
+c00000000539C828100000000000002A7
+t1402765953
+s679
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.m
+c00000000539C82810000000000003852
+t1402765953
+s14418
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/Bolts.h
+c00000000539C82810000000000000302
+t1402765953
+s770
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/Bolts.m
+c00000000539C828100000000000001CD
+t1402765953
+s461
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BoltsVersion.h
+c00000000539C8281000000000000001F
+t1402765953
+s31
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-Bolts-dummy.m
+c00000000539C8288000000000000008A
+t1402765960
+s138
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-Bolts-prefix.pch
+c00000000539C82880000000000000054
+t1402765960
+s84
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-environment.h
+c00000000539C8288000000000000095B
+t1402765960
+s2395
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkNavigation.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFExecutor.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTask.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTaskCompletionSource.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFURL.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/Bolts.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-Bolts-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb0c552710a4eb941^bb6153710a4eb941^---0#1#1#--18"Check dependencies36"5D801C6A-5954-401C-8717-69295722A5BB-
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLink.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424539159.108551
+e424539159.195088
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLink.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.m238"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLink.o Bolts/Bolts/BFAppLink.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler32e91b17f44db941^56f53a17f44db941^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.m0000000000000000^3837"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLink.o Bolts/Bolts/BFAppLink.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources/arm64 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-gmmxrazvnvqgcdddlevmbzvwxyli/Pods-DejaVu-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLink.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLink.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLink.o36"30A64902-3808-4728-B721-3D14D17572ED-
+b394161E5-FF98-4572-9F75-EDA9C6CCBC45
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkNavigation.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkNavigation.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424539159.196699
+e424539159.357403
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkNavigation.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkNavigation.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkNavigation.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkNavigation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTaskCompletionSource.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BoltsVersion.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkResolving.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFExecutor.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTask.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkNavigation.m258"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkNavigation.o Bolts/Bolts/BFAppLinkNavigation.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler68793217f44db941^50c75f17f44db941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkNavigation.m0000000000000000^3897"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkNavigation.o Bolts/Bolts/BFAppLinkNavigation.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources/arm64 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-gmmxrazvnvqgcdddlevmbzvwxyli/Pods-DejaVu-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkNavigation.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkNavigation.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkNavigation.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkNavigation.o36"46226A63-7BBC-4F0D-81B7-EDFFC29991E9-
+b394161E5-FF98-4572-9F75-EDA9C6CCBC45
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkReturnToRefererController.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424539159.356865
+e424539159.719397
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkReturnToRefererController.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkNavigation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView_Internal.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFURL.h
+o/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m:239:44: warning: undeclared selector 'returnToRefererController:willOpenAppLink:' [-Wundeclared-selector]
+o        if ([_delegate respondsToSelector:@selector(returnToRefererController:willOpenAppLink:)]) {
+o                                           ^
+o/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m:246:44: warning: undeclared selector 'returnToRefererController:didOpenURL:success:' [-Wundeclared-selector]
+o        if ([_delegate respondsToSelector:@selector(returnToRefererController:didOpenURL:success:)]) {
+o                                           ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m288"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkReturnToRefererController.o Bolts/Bolts/BFAppLinkReturnToRefererController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler317d5b17f44db941^bd53c517f44db941^-706"/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m:239:44: warning: undeclared selector 'returnToRefererController:willOpenAppLink:' [-Wundeclared-selector]        if ([_delegate respondsToSelector:@selector(returnToRefererController:willOpenAppLink:)]) {                                           ^/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m:246:44: warning: undeclared selector 'returnToRefererController:didOpenURL:success:' [-Wundeclared-selector]        if ([_delegate respondsToSelector:@selector(returnToRefererController:didOpenURL:success:)]) {                                           ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@64"Undeclared selector 'returnToRefererController:willOpenAppLink:'-424539159#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@94"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m0000000000000000^238#43#238#43#9070#0#14"Semantic Issue--2@67"Undeclared selector 'returnToRefererController:didOpenURL:success:'-424539159#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@94"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m0000000000000000^245#43#245#43#9413#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@94"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m0000000000000000^3987"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkReturnToRefererController.o Bolts/Bolts/BFAppLinkReturnToRefererController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources/arm64 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-gmmxrazvnvqgcdddlevmbzvwxyli/Pods-DejaVu-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkReturnToRefererController.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkReturnToRefererController.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkReturnToRefererController.o36"CD1157A3-8FDD-4B6E-AD53-133D3FE28D04-
+b394161E5-FF98-4572-9F75-EDA9C6CCBC45
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkReturnToRefererView.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424539159.459647
+e424539159.858886
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkReturnToRefererView.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkNavigation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.h
+o/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m:83:36: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o        _labelView.textAlignment = UITextAlignmentCenter;
+o                                   ^
+oIn module 'UIKit' imported from /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.h:11:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here
+o    UITextAlignmentCenter,
+o    ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m276"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkReturnToRefererView.o Bolts/Bolts/BFAppLinkReturnToRefererView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler85cc7517f44db941^e9eddb17f44db941^-680"/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m:83:36: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]        _labelView.textAlignment = UITextAlignmentCenter;                                   ^In module 'UIKit' imported from /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.h:11:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here    UITextAlignmentCenter,    ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@66"'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0-424539159#18446744073709551615#0#1(2@37"'UITextAlignmentCenter' declared here-424539159#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@176"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^41#4#41#4#2493#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@88"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m0000000000000000^82#35#82#35#2673#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@88"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m0000000000000000^3951"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkReturnToRefererView.o Bolts/Bolts/BFAppLinkReturnToRefererView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources/arm64 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-gmmxrazvnvqgcdddlevmbzvwxyli/Pods-DejaVu-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkReturnToRefererView.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkReturnToRefererView.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkReturnToRefererView.o36"929CBC31-7A4F-4252-8C18-635FAE54877A-
+b394161E5-FF98-4572-9F75-EDA9C6CCBC45
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkTarget.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424539159.523997
+e424539159.583293
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkTarget.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.m250"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkTarget.o Bolts/Bolts/BFAppLinkTarget.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5a468617f44db941^a8a99917f44db941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.m0000000000000000^3873"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkTarget.o Bolts/Bolts/BFAppLinkTarget.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources/arm64 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-gmmxrazvnvqgcdddlevmbzvwxyli/Pods-DejaVu-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkTarget.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkTarget.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFAppLinkTarget.o36"EF4D0142-8928-4F4E-AAC6-55E0EDAE1935-
+b394161E5-FF98-4572-9F75-EDA9C6CCBC45
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFExecutor.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFExecutor.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424539159.709529
+e424539159.815337
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFExecutor.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFExecutor.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFExecutor.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFExecutor.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFExecutor.m240"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFExecutor.o Bolts/Bolts/BFExecutor.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilera0c2b517f44db941^41bad017f44db941^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFExecutor.m0000000000000000^3843"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFExecutor.o Bolts/Bolts/BFExecutor.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources/arm64 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-gmmxrazvnvqgcdddlevmbzvwxyli/Pods-DejaVu-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFExecutor.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFExecutor.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFExecutor.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFExecutor.o36"42A26523-3007-4A1C-BCC6-1AC8A978FDC8-
+b394161E5-FF98-4572-9F75-EDA9C6CCBC45
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFTask.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTask.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424539159.818945
+e424539160.106004
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFTask.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTask.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTask.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTask.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFExecutor.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTaskCompletionSource.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/Bolts.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BoltsVersion.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkNavigation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFURL.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTask.m232"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFTask.o Bolts/Bolts/BFTask.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler0bd5d117f44db941^96b44a18f44db941^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTask.m0000000000000000^3819"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFTask.o Bolts/Bolts/BFTask.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources/arm64 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-gmmxrazvnvqgcdddlevmbzvwxyli/Pods-DejaVu-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFTask.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFTask.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTask.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFTask.o36"6D2C923B-3AE4-4E1B-B07C-6753648B75B4-
+b394161E5-FF98-4572-9F75-EDA9C6CCBC45
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFTaskCompletionSource.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTaskCompletionSource.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424539160.108521
+e424539160.171351
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFTaskCompletionSource.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTaskCompletionSource.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTaskCompletionSource.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTaskCompletionSource.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTask.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTaskCompletionSource.m264"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFTaskCompletionSource.o Bolts/Bolts/BFTaskCompletionSource.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilere3e31b18f44db941^6abe4a18f44db941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTaskCompletionSource.m0000000000000000^3915"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFTaskCompletionSource.o Bolts/Bolts/BFTaskCompletionSource.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources/arm64 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-gmmxrazvnvqgcdddlevmbzvwxyli/Pods-DejaVu-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFTaskCompletionSource.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFTaskCompletionSource.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTaskCompletionSource.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFTaskCompletionSource.o36"7D8993EC-F474-486D-BF2E-0D6023B18490-
+b394161E5-FF98-4572-9F75-EDA9C6CCBC45
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFURL.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFURL.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424539160.246949
+e424539160.344741
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFURL.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFURL.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFURL.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFURL.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFURL.m230"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFURL.o Bolts/Bolts/BFURL.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler71573f18f44db941^ea045818f44db941^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFURL.m0000000000000000^3813"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFURL.o Bolts/Bolts/BFURL.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources/arm64 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-gmmxrazvnvqgcdddlevmbzvwxyli/Pods-DejaVu-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFURL.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFURL.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFURL.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFURL.o36"1AFC2D5A-0180-4371-A1C1-584F76E6C8BE-
+b394161E5-FF98-4572-9F75-EDA9C6CCBC45
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFWebViewAppLinkResolver.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424539160.309111
+e424539160.589791
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFWebViewAppLinkResolver.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkResolving.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTask.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTaskCompletionSource.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFExecutor.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.m268"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFWebViewAppLinkResolver.o Bolts/Bolts/BFWebViewAppLinkResolver.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler423f4f18f44db941^7bdc9718f44db941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.m0000000000000000^3927"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFWebViewAppLinkResolver.o Bolts/Bolts/BFWebViewAppLinkResolver.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources/arm64 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-gmmxrazvnvqgcdddlevmbzvwxyli/Pods-DejaVu-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFWebViewAppLinkResolver.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFWebViewAppLinkResolver.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/BFWebViewAppLinkResolver.o36"B0E09B3C-0A02-4D71-BBD0-3D8FB7AD99FA-
+b394161E5-FF98-4572-9F75-EDA9C6CCBC45
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/Bolts.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/Bolts.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424539160.492923
+e424539160.550001
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/Bolts.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/Bolts.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/Bolts.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/Bolts.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BoltsVersion.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFExecutor.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTask.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTaskCompletionSource.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkNavigation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFURL.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/Bolts.m230"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/Bolts.o Bolts/Bolts/Bolts.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerea957e18f44db941^90bb8c18f44db941^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/Bolts.m0000000000000000^3813"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/Bolts.o Bolts/Bolts/Bolts.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources/arm64 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-gmmxrazvnvqgcdddlevmbzvwxyli/Pods-DejaVu-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/Bolts.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/Bolts.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/Bolts.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/Bolts.o36"68DC6EAA-CE95-4A62-A99F-8A6917F23143-
+b394161E5-FF98-4572-9F75-EDA9C6CCBC45
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/Pods-DejaVu-Bolts-dummy.o /Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-Bolts-dummy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424539160.684509
+e424539160.734738
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/Pods-DejaVu-Bolts-dummy.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-Bolts-dummy.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-Bolts-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-Bolts-dummy.m254"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/Pods-DejaVu-Bolts-dummy.o Pods-DejaVu-Bolts-dummy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler315eaf18f44db941^edd2c218f44db941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-Bolts-dummy.m0000000000000000^3863"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/Pods-DejaVu-Bolts-dummy.o Pods-DejaVu-Bolts-dummy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources/arm64 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-ewuacsjohrjjjbgkdurzsnozxdoa/Pods-DejaVu-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/Pods-DejaVu-Bolts-dummy.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/Pods-DejaVu-Bolts-dummy.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-Bolts-dummy.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/Pods-DejaVu-Bolts-dummy.o36"ACAA7E75-C9C8-4D60-B509-B87D78C2CB59-
+b394161E5-FF98-4572-9F75-EDA9C6CCBC45
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLink.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424539726.616498
+e424539726.806540
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLink.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.m238"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLink.o Bolts/Bolts/BFAppLink.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerea069e4ef64db941^b1a6e64ef64db941^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.m0000000000000000^3837"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLink.o Bolts/Bolts/BFAppLink.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources/armv7 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-cmwfjscwlxlejgaoaegoldyoexip/Pods-DejaVu-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLink.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLink.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLink.o36"B95226AC-7FDA-4039-AE80-A650998DE72E-
+b326034CC-509B-4FA8-BA16-49211BF317DE
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkNavigation.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkNavigation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424539726.617087
+e424539726.865035
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkNavigation.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkNavigation.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkNavigation.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkNavigation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTaskCompletionSource.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BoltsVersion.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkResolving.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFExecutor.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTask.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkNavigation.m258"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkNavigation.o Bolts/Bolts/BFAppLinkNavigation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compileree249e4ef64db941^4fb1e64ef64db941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkNavigation.m0000000000000000^3897"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkNavigation.o Bolts/Bolts/BFAppLinkNavigation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources/armv7 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-cmwfjscwlxlejgaoaegoldyoexip/Pods-DejaVu-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkNavigation.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkNavigation.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkNavigation.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkNavigation.o36"C64A30A1-145F-4785-ADAD-3BDC83AF9151-
+b326034CC-509B-4FA8-BA16-49211BF317DE
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererController.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424539726.618356
+e424539726.978555
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererController.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkNavigation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView_Internal.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFURL.h
+o/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m:239:44: warning: undeclared selector 'returnToRefererController:willOpenAppLink:' [-Wundeclared-selector]
+o        if ([_delegate respondsToSelector:@selector(returnToRefererController:willOpenAppLink:)]) {
+o                                           ^
+o/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m:246:44: warning: undeclared selector 'returnToRefererController:didOpenURL:success:' [-Wundeclared-selector]
+o        if ([_delegate respondsToSelector:@selector(returnToRefererController:didOpenURL:success:)]) {
+o                                           ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m288"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererController.o Bolts/Bolts/BFAppLinkReturnToRefererController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler23a49e4ef64db941^d1e9054ff64db941^-706"/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m:239:44: warning: undeclared selector 'returnToRefererController:willOpenAppLink:' [-Wundeclared-selector]        if ([_delegate respondsToSelector:@selector(returnToRefererController:willOpenAppLink:)]) {                                           ^/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m:246:44: warning: undeclared selector 'returnToRefererController:didOpenURL:success:' [-Wundeclared-selector]        if ([_delegate respondsToSelector:@selector(returnToRefererController:didOpenURL:success:)]) {                                           ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@64"Undeclared selector 'returnToRefererController:willOpenAppLink:'-424539726#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@94"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m0000000000000000^238#43#238#43#9070#0#14"Semantic Issue--2@67"Undeclared selector 'returnToRefererController:didOpenURL:success:'-424539726#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@94"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m0000000000000000^245#43#245#43#9413#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@94"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m0000000000000000^3987"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererController.o Bolts/Bolts/BFAppLinkReturnToRefererController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources/armv7 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-cmwfjscwlxlejgaoaegoldyoexip/Pods-DejaVu-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererController.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererController.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererController.o36"6CF9A8BE-6820-4B28-A62E-644D4E60E8A2-
+b326034CC-509B-4FA8-BA16-49211BF317DE
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererView.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424539726.807844
+e424539727.075283
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererView.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkNavigation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.h
+o/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m:83:36: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o        _labelView.textAlignment = UITextAlignmentCenter;
+o                                   ^
+oIn module 'UIKit' imported from /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.h:11:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here
+o    UITextAlignmentCenter,
+o    ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m276"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererView.o Bolts/Bolts/BFAppLinkReturnToRefererView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilere84bcf4ef64db941^46b3224ff64db941^-680"/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m:83:36: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]        _labelView.textAlignment = UITextAlignmentCenter;                                   ^In module 'UIKit' imported from /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.h:11:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here    UITextAlignmentCenter,    ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@66"'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0-424539727#18446744073709551615#0#1(2@37"'UITextAlignmentCenter' declared here-424539727#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@176"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^41#4#41#4#2493#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@88"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m0000000000000000^82#35#82#35#2673#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@88"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m0000000000000000^3951"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererView.o Bolts/Bolts/BFAppLinkReturnToRefererView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources/armv7 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-cmwfjscwlxlejgaoaegoldyoexip/Pods-DejaVu-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererView.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererView.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkReturnToRefererView.o36"5ED0A62E-ECF0-4124-A7BA-749D5D5DB563-
+b326034CC-509B-4FA8-BA16-49211BF317DE
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkTarget.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424539726.940119
+e424539727.005851
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkTarget.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.m250"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkTarget.o Bolts/Bolts/BFAppLinkTarget.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler36ccf04ef64db941^feee054ff64db941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.m0000000000000000^3873"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkTarget.o Bolts/Bolts/BFAppLinkTarget.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources/armv7 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-cmwfjscwlxlejgaoaegoldyoexip/Pods-DejaVu-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkTarget.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkTarget.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFAppLinkTarget.o36"3618EC71-32A7-416F-BB50-A5691CCFFF6F-
+b326034CC-509B-4FA8-BA16-49211BF317DE
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFExecutor.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFExecutor.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424539727.007582
+e424539727.142362
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFExecutor.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFExecutor.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFExecutor.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFExecutor.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFExecutor.m240"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFExecutor.o Bolts/Bolts/BFExecutor.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler730e024ff64db941^47c8244ff64db941^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFExecutor.m0000000000000000^3843"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFExecutor.o Bolts/Bolts/BFExecutor.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources/armv7 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-cmwfjscwlxlejgaoaegoldyoexip/Pods-DejaVu-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFExecutor.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFExecutor.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFExecutor.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFExecutor.o36"FFE7BB46-18E1-44F3-B88B-D8F8F75E409B-
+b326034CC-509B-4FA8-BA16-49211BF317DE
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFTask.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTask.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424539727.084429
+e424539727.405734
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFTask.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTask.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTask.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTask.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFExecutor.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTaskCompletionSource.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/Bolts.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BoltsVersion.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkNavigation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFURL.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTask.m232"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFTask.o Bolts/Bolts/BFTask.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler5abb154ff64db941^82587a4ff64db941^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTask.m0000000000000000^3819"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFTask.o Bolts/Bolts/BFTask.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources/armv7 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-cmwfjscwlxlejgaoaegoldyoexip/Pods-DejaVu-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFTask.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFTask.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTask.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFTask.o36"A92B11FE-FC5F-4ACC-A333-E5584AB6B2DB-
+b326034CC-509B-4FA8-BA16-49211BF317DE
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFTaskCompletionSource.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTaskCompletionSource.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424539727.221903
+e424539727.301705
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFTaskCompletionSource.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTaskCompletionSource.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTaskCompletionSource.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTaskCompletionSource.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTask.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTaskCompletionSource.m264"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFTaskCompletionSource.o Bolts/Bolts/BFTaskCompletionSource.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilere5ed384ff64db941^2672794ff64db941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTaskCompletionSource.m0000000000000000^3915"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFTaskCompletionSource.o Bolts/Bolts/BFTaskCompletionSource.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources/armv7 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-cmwfjscwlxlejgaoaegoldyoexip/Pods-DejaVu-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFTaskCompletionSource.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFTaskCompletionSource.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTaskCompletionSource.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFTaskCompletionSource.o36"D2DE45D7-C7FE-4C3C-A46E-6DD97EBC9290-
+b326034CC-509B-4FA8-BA16-49211BF317DE
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFURL.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFURL.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424539727.305128
+e424539727.481657
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFURL.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFURL.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFURL.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFURL.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFURL.m230"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFURL.o Bolts/Bolts/BFURL.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler4a424e4ff64db941^8c9e7b4ff64db941^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFURL.m0000000000000000^3813"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFURL.o Bolts/Bolts/BFURL.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources/armv7 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-cmwfjscwlxlejgaoaegoldyoexip/Pods-DejaVu-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFURL.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFURL.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFURL.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFURL.o36"059F03C1-DDA3-43C2-9B82-B08C33BEEC80-
+b326034CC-509B-4FA8-BA16-49211BF317DE
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFWebViewAppLinkResolver.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424539727.407321
+e424539727.744350
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFWebViewAppLinkResolver.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkResolving.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTask.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTaskCompletionSource.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFExecutor.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.m268"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFWebViewAppLinkResolver.o Bolts/Bolts/BFWebViewAppLinkResolver.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler1767684ff64db941^da53d24ff64db941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.m0000000000000000^3927"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFWebViewAppLinkResolver.o Bolts/Bolts/BFWebViewAppLinkResolver.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources/armv7 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-cmwfjscwlxlejgaoaegoldyoexip/Pods-DejaVu-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFWebViewAppLinkResolver.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFWebViewAppLinkResolver.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/BFWebViewAppLinkResolver.o36"2FEA66AD-AFB8-4F01-B25C-8158BA285E0C-
+b326034CC-509B-4FA8-BA16-49211BF317DE
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/Bolts.o /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/Bolts.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424539727.518385
+e424539727.572219
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/Bolts.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/Bolts.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/Bolts.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/Bolts.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BoltsVersion.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFExecutor.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTask.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFTaskCompletionSource.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkNavigation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLink.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFAppLinkTarget.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/BFURL.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/Bolts.m230"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/Bolts.o Bolts/Bolts/Bolts.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler5bcf844ff64db941^0680924ff64db941^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/Bolts.m0000000000000000^3813"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/Bolts.o Bolts/Bolts/Bolts.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources/armv7 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-cmwfjscwlxlejgaoaegoldyoexip/Pods-DejaVu-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/Bolts.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/Bolts.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/Bolts/Bolts/Bolts.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/Bolts.o36"32642D93-6123-4A22-B458-647FE00D08A4-
+b326034CC-509B-4FA8-BA16-49211BF317DE
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/Pods-DejaVu-Bolts-dummy.o /Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-Bolts-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424539727.747005
+e424539727.924653
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/Pods-DejaVu-Bolts-dummy.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-Bolts-dummy.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-Bolts-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-Bolts-dummy.m254"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/Pods-DejaVu-Bolts-dummy.o Pods-DejaVu-Bolts-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler0b5fbf4ff64db941^52b6ec4ff64db941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-Bolts-dummy.m0000000000000000^3863"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/Pods-DejaVu-Bolts-dummy.o Pods-DejaVu-Bolts-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources/armv7 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-dlczvliaqygrhbcgawlbcivucmbh/Pods-DejaVu-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/Pods-DejaVu-Bolts-dummy.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/Pods-DejaVu-Bolts-dummy.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-Bolts-dummy.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/Pods-DejaVu-Bolts-dummy.o36"4FA633CA-2845-432A-A962-37546815E9AD-
+b326034CC-509B-4FA8-BA16-49211BF317DE
+
+CLibtool /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/libPods-DejaVu-Bolts.a normal arm64
+s424542085.175247
+e424542085.187694
+r1
+xLibtool
+x/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/libPods-DejaVu-Bolts.a
+xnormal
+xarm64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Libtool /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/libPods-DejaVu-Bolts.a normal arm64107"Libtool /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/libPods-DejaVu-Bolts.a normal arm6422352d85ff4db941^2f143085ff4db941^---0#0#1#--966"Libtool /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/libPods-DejaVu-Bolts.a normal arm64    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only arm64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -filelist /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/arm64/Pods-DejaVu-Bolts.LinkFileList -framework Foundation -o /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/libPods-DejaVu-Bolts.a36"945E9282-14F8-4AC7-9C4C-C4DEAA7F83F9-
+b7ECDD253-46AA-4363-BF78-352AA3AAEDCF
+
+CLibtool /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/libPods-DejaVu-Bolts.a normal armv7
+s424541951.113834
+e424541951.125088
+r1
+xLibtool
+x/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/libPods-DejaVu-Bolts.a
+xnormal
+xarmv7
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Libtool /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/libPods-DejaVu-Bolts.a normal armv7107"Libtool /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/libPods-DejaVu-Bolts.a normal armv700391dfffe4db941^dbf720fffe4db941^---0#0#1#--966"Libtool /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/libPods-DejaVu-Bolts.a normal armv7    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -filelist /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Objects-normal/armv7/Pods-DejaVu-Bolts.LinkFileList -framework Foundation -o /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/libPods-DejaVu-Bolts.a36"CE70BC89-EF3D-4F30-8E26-80B37084ECC4-
+bBBB9A9B1-29C3-46A0-B562-4F1A3946B521
+
+CProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-cmwfjscwlxlejgaoaegoldyoexip/Pods-DejaVu-Bolts-prefix.pch.pch Pods-DejaVu-Bolts-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-dlczvliaqygrhbcgawlbcivucmbh/Pods-DejaVu-Bolts-prefix.pch.pch Pods-DejaVu-Bolts-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-ewuacsjohrjjjbgkdurzsnozxdoa/Pods-DejaVu-Bolts-prefix.pch.pch Pods-DejaVu-Bolts-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424539158.915137
+e424539159.068873
+r1
+xProcessPCH
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-ewuacsjohrjjjbgkdurzsnozxdoa/Pods-DejaVu-Bolts-prefix.pch.pch
+xPods-DejaVu-Bolts-prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-Bolts-prefix.pch
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-DejaVu-Bolts-prefix.pch268"ProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-ewuacsjohrjjjbgkdurzsnozxdoa/Pods-DejaVu-Bolts-prefix.pch.pch Pods-DejaVu-Bolts-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf86bea16f44db941^f6b21117f44db941^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-Bolts-prefix.pch0000000000000000^3745"ProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-ewuacsjohrjjjbgkdurzsnozxdoa/Pods-DejaVu-Bolts-prefix.pch.pch Pods-DejaVu-Bolts-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources/arm64 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-ewuacsjohrjjjbgkdurzsnozxdoa/Pods-DejaVu-Bolts-prefix.pch.dia -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-ewuacsjohrjjjbgkdurzsnozxdoa/Pods-DejaVu-Bolts-prefix.pch.d -c /Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-Bolts-prefix.pch -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-ewuacsjohrjjjbgkdurzsnozxdoa/Pods-DejaVu-Bolts-prefix.pch.pch36"1A994CA6-910E-4480-AE65-FD2F6C8EFB0E-
+b394161E5-FF98-4572-9F75-EDA9C6CCBC45
+
+CProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-gmmxrazvnvqgcdddlevmbzvwxyli/Pods-DejaVu-Bolts-prefix.pch.pch Pods-DejaVu-Bolts-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424539158.914013
+e424539159.107639
+r1
+xProcessPCH
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-gmmxrazvnvqgcdddlevmbzvwxyli/Pods-DejaVu-Bolts-prefix.pch.pch
+xPods-DejaVu-Bolts-prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-Bolts-prefix.pch
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-DejaVu-Bolts-prefix.pch268"ProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-gmmxrazvnvqgcdddlevmbzvwxyli/Pods-DejaVu-Bolts-prefix.pch.pch Pods-DejaVu-Bolts-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilera73cea16f44db941^caa71b17f44db941^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-Bolts-prefix.pch0000000000000000^3779"ProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-gmmxrazvnvqgcdddlevmbzvwxyli/Pods-DejaVu-Bolts-prefix.pch.pch Pods-DejaVu-Bolts-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/Pods-DejaVu-Bolts-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources/arm64 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-DejaVu-Bolts.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-gmmxrazvnvqgcdddlevmbzvwxyli/Pods-DejaVu-Bolts-prefix.pch.dia -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-gmmxrazvnvqgcdddlevmbzvwxyli/Pods-DejaVu-Bolts-prefix.pch.d -c /Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-Bolts-prefix.pch -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-gmmxrazvnvqgcdddlevmbzvwxyli/Pods-DejaVu-Bolts-prefix.pch.pch36"79D1F388-057F-4387-8B5C-1DDFDFC0233E-
+b394161E5-FF98-4572-9F75-EDA9C6CCBC45
+
+CProcessPCH /Users/ryancleeton/Library/Developer/Xcode/DerivedData/DejaVu-ftudxcidwqcisogomqcznllrrkmr/Index/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-briavvbjihzimtfvhsletbucrcpk_ast/Pods-DejaVu-Bolts-prefix.pch.pch Pods-DejaVu-Bolts-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/ryancleeton/Library/Developer/Xcode/DerivedData/DejaVu-ftudxcidwqcisogomqcznllrrkmr/Index/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-copamyhkoylpomcnpvkomplncwym_ast/Pods-DejaVu-Bolts-prefix.pch.pch Pods-DejaVu-Bolts-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/ryancleeton/Library/Developer/Xcode/DerivedData/DejaVu-ftudxcidwqcisogomqcznllrrkmr/Index/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-ftnwiaagkfhaludoeqkzdopmrsbe_ast/Pods-DejaVu-Bolts-prefix.pch.pch Pods-DejaVu-Bolts-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/ryancleeton/Library/Developer/Xcode/DerivedData/DejaVu-ftudxcidwqcisogomqcznllrrkmr/Index/PrecompiledHeaders/Pods-DejaVu-Bolts-prefix-giajakxdbsadtncyvbudnzakdodh_ast/Pods-DejaVu-Bolts-prefix.pch.pch Pods-DejaVu-Bolts-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+

@@ -1,0 +1,855 @@
+TPods-DejaVu-AFNetworking
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-cwgqmuyxntbaxkdpufnvoesxizeg/Pods-DejaVu-AFNetworking-prefix.pch.pch Pods-DejaVu-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-dvvpyszdwcnzvifyxcuwblhmdlff/Pods-DejaVu-AFNetworking-prefix.pch.pch Pods-DejaVu-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/Pods-DejaVu-AFNetworking-dummy.o /Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-AFNetworking-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/libPods-DejaVu-AFNetworking.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005354294E00000000004D7BC0
+t1398024526
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005354294F0000000000A90C10
+t1398024527
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000005354294F0000000000210E90
+t1398024527
+s2166416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000535429500000000000186D60
+t1398024528
+s1600864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000005354295100000000001A2B00
+t1398024529
+s1714944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005354296100000000000003B4
+t1398024545
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053542968000000000000019E
+t1398024552
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000535429990000000000000ADC
+t1398024601
+s2780
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o
+t1402766478
+s45352
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o
+t1402766478
+s58696
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o
+t1402815016
+s68616
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o
+t1402766478
+s33388
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o
+t1402766478
+s44696
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o
+t1402766478
+s39552
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o
+t1402766478
+s199756
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o
+t1402766479
+s225704
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o
+t1402766478
+s99552
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o
+t1402766479
+s207392
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/Pods-DejaVu-AFNetworking-dummy.o
+t1402766478
+s3484
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/Pods-DejaVu-AFNetworking.LinkFileList
+c00000000539C78720000000000000BB1
+t1402763378
+s2993
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o
+t1402766479
+s50408
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o
+t1402766479
+s27660
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o
+t1402766479
+s76552
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o
+t1402766479
+s72968
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o
+t1402766479
+s68420
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.o
+t1402766479
+s51780
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o
+t1402766479
+s68088
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-azstsbuslamoligpswpdgipdanrt/Pods-DejaVu-AFNetworking-prefix.pch.pch
+t1402763378
+s125476
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-cwgqmuyxntbaxkdpufnvoesxizeg/Pods-DejaVu-AFNetworking-prefix.pch.pch
+t1402766478
+s126988
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-dvvpyszdwcnzvifyxcuwblhmdlff/Pods-DejaVu-AFNetworking-prefix.pch.pch
+t1402766478
+s126604
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-fbpbgmcesvafendywtjhiejxihyx/Pods-DejaVu-AFNetworking-prefix.pch.pch
+t1402763378
+s125864
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/libPods-DejaVu-AFNetworking.a
+t1402815016
+s1459360
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+c00000000539BA8290000000000001170
+t1402710057
+s4464
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+c00000000539BA8290000000000001D5E
+t1402710057
+s7518
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.h
+c00000000539BA8290000000000004A9F
+t1402710057
+s19103
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+c00000000539BA82900000000000029D9
+t1402710057
+s10713
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h
+c00000000539BA829000000000000389B
+t1402710057
+s14491
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+c00000000539D28EE00000000000032E0
+t1402808558
+s13024
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+c00000000539BA8290000000000001E75
+t1402710057
+s7797
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+c00000000539BA829000000000000267B
+t1402710057
+s9851
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+c00000000539BA8290000000000001420
+t1402710057
+s5152
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+c00000000539BA8290000000000002B7A
+t1402710057
+s11130
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+c00000000539BA8290000000000004273
+t1402710057
+s17011
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+c00000000539BA8290000000000006C06
+t1402710057
+s27654
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+c00000000539BA8290000000000005322
+t1402710057
+s21282
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+c00000000539BA829000000000000BB98
+t1402710057
+s48024
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+c00000000539BA8290000000000002C15
+t1402710057
+s11285
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+c00000000539BA8290000000000006784
+t1402710057
+s26500
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+c00000000539BA82900000000000074AE
+t1402710057
+s29870
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+c00000000539BA829000000000000A96B
+t1402710057
+s43371
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h
+c00000000539BA8290000000000000EC6
+t1402710057
+s3782
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+c00000000539BA8290000000000001911
+t1402710057
+s6417
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h
+c00000000539BA82900000000000009CE
+t1402710057
+s2510
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+c00000000539BA8290000000000000F1E
+t1402710057
+s3870
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.h
+c00000000539BA829000000000000143F
+t1402710057
+s5183
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+c00000000539BA8290000000000001641
+t1402710057
+s5697
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h
+c00000000539BA8290000000000001F9A
+t1402710057
+s8090
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+c00000000539BA8290000000000001D60
+t1402710057
+s7520
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h
+c00000000539BA8290000000000001C1C
+t1402710057
+s7196
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+c00000000539BA8290000000000001F28
+t1402710057
+s7976
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h
+c00000000539BA8290000000000000D8E
+t1402710057
+s3470
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+c00000000539BA8290000000000001EE1
+t1402710057
+s7905
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h
+c00000000539BA82900000000000009BC
+t1402710057
+s2492
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+c00000000539BA8290000000000000EFC
+t1402710057
+s3836
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h
+c00000000539BA8290000000000001739
+t1402710057
+s5945
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+c00000000539BA829000000000000192C
+t1402710057
+s6444
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-AFNetworking-dummy.m
+c00000000539C82880000000000000098
+t1402765960
+s152
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-AFNetworking-prefix.pch
+c00000000539C82880000000000000054
+t1402765960
+s84
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-environment.h
+c00000000539C8288000000000000095B
+t1402765960
+s2395
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-AFNetworking-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies1e182449b54db941^6cb34d49b54db941^---0#1#1#--18"Check dependencies36"A00AF02E-2A8B-4E20-A934-1952AC77BCA9-
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424459278.085319
+e424459278.203794
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m290"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera5f3150ebc4cb941^7575370ebc4cb941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m0000000000000000^4212"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-cwgqmuyxntbaxkdpufnvoesxizeg/Pods-DejaVu-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o36"D9981764-A6DC-40FC-9495-3FD3B09EA51B-
+b4A8DF15B-84EC-471C-8592-2BE75BA2D6AD
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424459278.087931
+e424459278.246162
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m304"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercee1160ebc4cb941^b0e8620ebc4cb941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m0000000000000000^4254"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-cwgqmuyxntbaxkdpufnvoesxizeg/Pods-DejaVu-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o36"9F96D9CC-6424-433C-8E76-52BA2505818C-
+b4A8DF15B-84EC-471C-8592-2BE75BA2D6AD
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424507816.448802
+e424507816.757670
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m286"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o AFNetworking/AFNetworking/AFHTTPSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler771073a8794db941^ab09c2a8794db941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m0000000000000000^4200"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o AFNetworking/AFNetworking/AFHTTPSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-cwgqmuyxntbaxkdpufnvoesxizeg/Pods-DejaVu-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o36"FEDB399D-3FE5-4C91-85AF-A6D273D0516C-
+bD470A000-A537-4511-9578-71387E685A86
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424459278.207479
+e424459278.350770
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m318"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler077d350ebc4cb941^0839630ebc4cb941^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m0000000000000000^4290"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-cwgqmuyxntbaxkdpufnvoesxizeg/Pods-DejaVu-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o36"541B56D1-C9DC-4C0C-AC59-C1BFAAB3C221-
+b4A8DF15B-84EC-471C-8592-2BE75BA2D6AD
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424459278.247436
+e424459278.391708
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m302"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9e40400ebc4cb941^d2ab790ebc4cb941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m0000000000000000^4248"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-cwgqmuyxntbaxkdpufnvoesxizeg/Pods-DejaVu-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o36"37B0CF39-CE80-4EEF-91B5-EDE4B18E2EB2-
+b4A8DF15B-84EC-471C-8592-2BE75BA2D6AD
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424459278.289228
+e424459278.419683
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m278"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o AFNetworking/AFNetworking/AFSecurityPolicy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler74294a0ebc4cb941^4ab3790ebc4cb941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m0000000000000000^4176"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o AFNetworking/AFNetworking/AFSecurityPolicy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-cwgqmuyxntbaxkdpufnvoesxizeg/Pods-DejaVu-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o36"B7B5839B-24EE-4905-ACD6-FE4B7D7BB687-
+b4A8DF15B-84EC-471C-8592-2BE75BA2D6AD
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424459278.352059
+e424459278.890040
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m294"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o AFNetworking/AFNetworking/AFURLConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler69c65a0ebc4cb941^59dce30ebc4cb941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m0000000000000000^4224"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o AFNetworking/AFNetworking/AFURLConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-cwgqmuyxntbaxkdpufnvoesxizeg/Pods-DejaVu-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o36"35809E28-7F34-4C07-B679-DD23D98BD192-
+b4A8DF15B-84EC-471C-8592-2BE75BA2D6AD
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424459278.391949
+e424459279.135165
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m296"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o AFNetworking/AFNetworking/AFURLRequestSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6171640ebc4cb941^a29a220fbc4cb941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m0000000000000000^4230"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o AFNetworking/AFNetworking/AFURLRequestSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-cwgqmuyxntbaxkdpufnvoesxizeg/Pods-DejaVu-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o36"B2B44296-07DB-40F1-BC9D-45F73C535092-
+b4A8DF15B-84EC-471C-8592-2BE75BA2D6AD
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424459278.420966
+e424459278.740074
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m298"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o AFNetworking/AFNetworking/AFURLResponseSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler03266c0ebc4cb941^9084bd0ebc4cb941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m0000000000000000^4236"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o AFNetworking/AFNetworking/AFURLResponseSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-cwgqmuyxntbaxkdpufnvoesxizeg/Pods-DejaVu-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o36"02A2D175-B123-49D1-BB52-9744A560B3C3-
+b4A8DF15B-84EC-471C-8592-2BE75BA2D6AD
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424459278.741434
+e424459279.311590
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m284"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o AFNetworking/AFNetworking/AFURLSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8c2bbe0ebc4cb941^1b0d500fbc4cb941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m0000000000000000^4194"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o AFNetworking/AFNetworking/AFURLSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-cwgqmuyxntbaxkdpufnvoesxizeg/Pods-DejaVu-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o36"3F982AC7-EAA5-4011-A42C-8F93EAD87BFA-
+b4A8DF15B-84EC-471C-8592-2BE75BA2D6AD
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/Pods-DejaVu-AFNetworking-dummy.o /Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-AFNetworking-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424459278.891356
+e424459278.939107
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/Pods-DejaVu-AFNetworking-dummy.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-AFNetworking-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-AFNetworking-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-AFNetworking-dummy.m280"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/Pods-DejaVu-AFNetworking-dummy.o Pods-DejaVu-AFNetworking-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd690e40ebc4cb941^6171f00ebc4cb941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-AFNetworking-dummy.m0000000000000000^4197"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/Pods-DejaVu-AFNetworking-dummy.o Pods-DejaVu-AFNetworking-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-dvvpyszdwcnzvifyxcuwblhmdlff/Pods-DejaVu-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/Pods-DejaVu-AFNetworking-dummy.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/Pods-DejaVu-AFNetworking-dummy.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-AFNetworking-dummy.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/Pods-DejaVu-AFNetworking-dummy.o36"44C52C43-8E6C-4711-BCBB-E1D765405E32-
+b4A8DF15B-84EC-471C-8592-2BE75BA2D6AD
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424459278.940403
+e424459279.049484
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m324"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbc21f10ebc4cb941^d4bb0c0fbc4cb941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m0000000000000000^4308"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-cwgqmuyxntbaxkdpufnvoesxizeg/Pods-DejaVu-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o36"9F5512E0-8039-48C3-8212-801D84F08830-
+b4A8DF15B-84EC-471C-8592-2BE75BA2D6AD
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424459279.049771
+e424459279.132284
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m300"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler90da0c0fbc4cb941^c0ed210fbc4cb941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m0000000000000000^4236"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-cwgqmuyxntbaxkdpufnvoesxizeg/Pods-DejaVu-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o36"B0FC9582-5909-4F74-914E-B32DC072A0A8-
+b4A8DF15B-84EC-471C-8592-2BE75BA2D6AD
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424459279.133644
+e424459279.339487
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m294"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere529230fbc4cb941^72a5560fbc4cb941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m0000000000000000^4218"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-cwgqmuyxntbaxkdpufnvoesxizeg/Pods-DejaVu-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o36"0EDCB005-E54D-4505-A800-5A37FD081988-
+b4A8DF15B-84EC-471C-8592-2BE75BA2D6AD
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424459279.136566
+e424459279.322682
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m300"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7710230fbc4cb941^38ba520fbc4cb941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m0000000000000000^4236"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-cwgqmuyxntbaxkdpufnvoesxizeg/Pods-DejaVu-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o36"094284BE-607C-4532-846F-D6E1DAEE0320-
+b4A8DF15B-84EC-471C-8592-2BE75BA2D6AD
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424459279.311859
+e424459279.479354
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m306"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf1bc500fbc4cb941^babb7a0fbc4cb941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m0000000000000000^4254"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-cwgqmuyxntbaxkdpufnvoesxizeg/Pods-DejaVu-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o36"6E91A146-535B-4F2E-9262-9ADB8F0C0459-
+b4A8DF15B-84EC-471C-8592-2BE75BA2D6AD
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424459279.322956
+e424459279.451401
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m310"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7c0f530fbc4cb941^7a8f730fbc4cb941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m0000000000000000^4266"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-cwgqmuyxntbaxkdpufnvoesxizeg/Pods-DejaVu-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.o36"F6FA8BC1-E220-40EF-8A66-6340C35B3D2A-
+b4A8DF15B-84EC-471C-8592-2BE75BA2D6AD
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424459279.339866
+e424459279.480144
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m296"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc51d570fbc4cb941^20097b0fbc4cb941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m0000000000000000^4224"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-cwgqmuyxntbaxkdpufnvoesxizeg/Pods-DejaVu-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o36"BA9FF55C-EF05-4660-AB50-100C6626DFCE-
+b4A8DF15B-84EC-471C-8592-2BE75BA2D6AD
+
+CLibtool /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/libPods-DejaVu-AFNetworking.a normal i386
+s424507816.759739
+e424507816.796137
+r1
+xLibtool
+x/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/libPods-DejaVu-AFNetworking.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Libtool /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/libPods-DejaVu-AFNetworking.a normal i386120"Libtool /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/libPods-DejaVu-AFNetworking.a normal i386ee98c2a8794db941^24efd0a8794db941^---0#0#1#--1145"Libtool /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/libPods-DejaVu-AFNetworking.a normal i386    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -filelist /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Objects-normal/i386/Pods-DejaVu-AFNetworking.LinkFileList -framework CoreGraphics -framework Foundation -framework MobileCoreServices -framework Security -framework SystemConfiguration -o /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/libPods-DejaVu-AFNetworking.a36"B314D7BA-2770-4A16-A302-85506C6EFD6B-
+bD470A000-A537-4511-9578-71387E685A86
+
+CProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-azstsbuslamoligpswpdgipdanrt/Pods-DejaVu-AFNetworking-prefix.pch.pch Pods-DejaVu-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424456178.788181
+e424456178.843351
+r1
+xProcessPCH
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-azstsbuslamoligpswpdgipdanrt/Pods-DejaVu-AFNetworking-prefix.pch.pch
+xPods-DejaVu-AFNetworking-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-AFNetworking-prefix.pch
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Precompile Pods-DejaVu-AFNetworking-prefix.pch288"ProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-azstsbuslamoligpswpdgipdanrt/Pods-DejaVu-AFNetworking-prefix.pch.pch Pods-DejaVu-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler69e2c9f2af4cb941^3ae7d7f2af4cb941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-AFNetworking-prefix.pch0000000000000000^3842"ProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-azstsbuslamoligpswpdgipdanrt/Pods-DejaVu-AFNetworking-prefix.pch.pch Pods-DejaVu-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-azstsbuslamoligpswpdgipdanrt/Pods-DejaVu-AFNetworking-prefix.pch.dia -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-azstsbuslamoligpswpdgipdanrt/Pods-DejaVu-AFNetworking-prefix.pch.d -c /Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-AFNetworking-prefix.pch -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-azstsbuslamoligpswpdgipdanrt/Pods-DejaVu-AFNetworking-prefix.pch.pch36"E00D312D-BA1C-4D10-8909-6AFD4DB903B3-
+b6B96F8F6-B78E-4D6C-BA82-274DCA68DCB7
+
+CProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-cwgqmuyxntbaxkdpufnvoesxizeg/Pods-DejaVu-AFNetworking-prefix.pch.pch Pods-DejaVu-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424459277.984121
+e424459278.080024
+r1
+xProcessPCH
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-cwgqmuyxntbaxkdpufnvoesxizeg/Pods-DejaVu-AFNetworking-prefix.pch.pch
+xPods-DejaVu-AFNetworking-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-AFNetworking-prefix.pch
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Precompile Pods-DejaVu-AFNetworking-prefix.pch288"ProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-cwgqmuyxntbaxkdpufnvoesxizeg/Pods-DejaVu-AFNetworking-prefix.pch.pch Pods-DejaVu-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2b4bfc0dbc4cb941^a29b290ebc4cb941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-AFNetworking-prefix.pch0000000000000000^4052"ProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-cwgqmuyxntbaxkdpufnvoesxizeg/Pods-DejaVu-AFNetworking-prefix.pch.pch Pods-DejaVu-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -fobjc-arc --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-cwgqmuyxntbaxkdpufnvoesxizeg/Pods-DejaVu-AFNetworking-prefix.pch.dia -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-cwgqmuyxntbaxkdpufnvoesxizeg/Pods-DejaVu-AFNetworking-prefix.pch.d -c /Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-AFNetworking-prefix.pch -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-cwgqmuyxntbaxkdpufnvoesxizeg/Pods-DejaVu-AFNetworking-prefix.pch.pch36"9C7B790C-E683-4ECD-B25A-6994B88D40F8-
+b4A8DF15B-84EC-471C-8592-2BE75BA2D6AD
+
+CProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-dvvpyszdwcnzvifyxcuwblhmdlff/Pods-DejaVu-AFNetworking-prefix.pch.pch Pods-DejaVu-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424459277.984472
+e424459278.046125
+r1
+xProcessPCH
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-dvvpyszdwcnzvifyxcuwblhmdlff/Pods-DejaVu-AFNetworking-prefix.pch.pch
+xPods-DejaVu-AFNetworking-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-AFNetworking-prefix.pch
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Precompile Pods-DejaVu-AFNetworking-prefix.pch288"ProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-dvvpyszdwcnzvifyxcuwblhmdlff/Pods-DejaVu-AFNetworking-prefix.pch.pch Pods-DejaVu-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4b21fc0dbc4cb941^3695290ebc4cb941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-AFNetworking-prefix.pch0000000000000000^4041"ProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-dvvpyszdwcnzvifyxcuwblhmdlff/Pods-DejaVu-AFNetworking-prefix.pch.pch Pods-DejaVu-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-dvvpyszdwcnzvifyxcuwblhmdlff/Pods-DejaVu-AFNetworking-prefix.pch.dia -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-dvvpyszdwcnzvifyxcuwblhmdlff/Pods-DejaVu-AFNetworking-prefix.pch.d -c /Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-AFNetworking-prefix.pch -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-dvvpyszdwcnzvifyxcuwblhmdlff/Pods-DejaVu-AFNetworking-prefix.pch.pch36"BABA9328-4727-4906-9296-E5CBE3E35596-
+b4A8DF15B-84EC-471C-8592-2BE75BA2D6AD
+
+CProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-fbpbgmcesvafendywtjhiejxihyx/Pods-DejaVu-AFNetworking-prefix.pch.pch Pods-DejaVu-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424456178.787801
+e424456178.839215
+r1
+xProcessPCH
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-fbpbgmcesvafendywtjhiejxihyx/Pods-DejaVu-AFNetworking-prefix.pch.pch
+xPods-DejaVu-AFNetworking-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-AFNetworking-prefix.pch
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Precompile Pods-DejaVu-AFNetworking-prefix.pch288"ProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-fbpbgmcesvafendywtjhiejxihyx/Pods-DejaVu-AFNetworking-prefix.pch.pch Pods-DejaVu-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4fcdc9f2af4cb941^69e1d6f2af4cb941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-AFNetworking-prefix.pch0000000000000000^3853"ProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-fbpbgmcesvafendywtjhiejxihyx/Pods-DejaVu-AFNetworking-prefix.pch.pch Pods-DejaVu-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/Pods-DejaVu-AFNetworking-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders -I/Users/ryancleeton/Desktop/DejaVu/Pods/BuildHeaders/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu-AFNetworking.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -fobjc-arc --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-fbpbgmcesvafendywtjhiejxihyx/Pods-DejaVu-AFNetworking-prefix.pch.dia -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-fbpbgmcesvafendywtjhiejxihyx/Pods-DejaVu-AFNetworking-prefix.pch.d -c /Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-AFNetworking-prefix.pch -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-fbpbgmcesvafendywtjhiejxihyx/Pods-DejaVu-AFNetworking-prefix.pch.pch36"66A6448A-7A38-4376-B8B5-24640ACAAC63-
+b6B96F8F6-B78E-4D6C-BA82-274DCA68DCB7
+
+CProcessPCH /Users/ryancleeton/Library/Developer/Xcode/DerivedData/DejaVu-ftudxcidwqcisogomqcznllrrkmr/Index/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-bcxpzvjbiyseehdynifthozlngbr_ast/Pods-DejaVu-AFNetworking-prefix.pch.pch Pods-DejaVu-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/ryancleeton/Library/Developer/Xcode/DerivedData/DejaVu-ftudxcidwqcisogomqcznllrrkmr/Index/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-chvmrflztenrspeoqthahgbowigs_ast/Pods-DejaVu-AFNetworking-prefix.pch.pch Pods-DejaVu-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/ryancleeton/Library/Developer/Xcode/DerivedData/DejaVu-ftudxcidwqcisogomqcznllrrkmr/Index/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-dxmydvfbocoijaaxexvqcojlmyfu_ast/Pods-DejaVu-AFNetworking-prefix.pch.pch Pods-DejaVu-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/ryancleeton/Library/Developer/Xcode/DerivedData/DejaVu-ftudxcidwqcisogomqcznllrrkmr/Index/PrecompiledHeaders/Pods-DejaVu-AFNetworking-prefix-enrekdzycofqiwfxekjdldxxmtyp_ast/Pods-DejaVu-AFNetworking-prefix.pch.pch Pods-DejaVu-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+

@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBNativeDialogs.m \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/FBNativeDialogs.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/FBAppCall.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/FBAccessTokenData.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/FBSession.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/FBSDKMacros.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/FBAppLinkData.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/FBDialogsData.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/FBOpenGraphActionShareDialogParams.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/FBOpenGraphActionParams.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/FBDialogsParams.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/FBOpenGraphAction.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/FBGraphObject.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/FBShareDialogParams.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/FBLinkShareParams.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/Login/FBAccessTokenData+Internal.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBAppBridge.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBAppCall+Internal.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/Insights/FBAppEvents+Internal.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/FBAppEvents.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/Core/FBAppLinkData+Internal.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBDialogs+Internal.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/FBDialogs.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/FBPhotoParams.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBLikeDialogParams.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBDialogsData+Internal.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBDialogsParams+Internal.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/FBError.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/Core/FBUtility.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/Core/FBFetchedAppSettings.h \
+  /Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/Core/FBLogger.h

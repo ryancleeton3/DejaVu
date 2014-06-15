@@ -1,0 +1,704 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		05655B2FF4B54AA0A4C11ACE /* libPods-DejaVu.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 89A4CABA222541809EEC0FB6 /* libPods-DejaVu.a */; };
+		651F84E6194CC00B001414BA /* DVFirstView.m in Sources */ = {isa = PBXBuildFile; fileRef = 651F84E5194CC00B001414BA /* DVFirstView.m */; };
+		651F84EA194CC068001414BA /* DVFirstView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 651F84E9194CC068001414BA /* DVFirstView.xib */; };
+		651F84F6194D062B001414BA /* DVResultsHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 651F84F5194D062B001414BA /* DVResultsHeaderView.m */; };
+		651F84F8194D0845001414BA /* dejavu-backgroun.png in Resources */ = {isa = PBXBuildFile; fileRef = 651F84F7194D0845001414BA /* dejavu-backgroun.png */; };
+		651F84FC194D0997001414BA /* big-dejavu-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 651F84F9194D0997001414BA /* big-dejavu-logo.png */; };
+		651F84FD194D0997001414BA /* small-dejavu-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 651F84FA194D0997001414BA /* small-dejavu-logo.png */; };
+		651F84FE194D0997001414BA /* X.png in Resources */ = {isa = PBXBuildFile; fileRef = 651F84FB194D0997001414BA /* X.png */; };
+		651F8504194D1009001414BA /* DVLoginButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 651F8503194D1009001414BA /* DVLoginButton.m */; };
+		651F8506194D103D001414BA /* DVLoginButton.xib in Resources */ = {isa = PBXBuildFile; fileRef = 651F8505194D103D001414BA /* DVLoginButton.xib */; };
+		651F8508194D11F0001414BA /* facebookbutton.png in Resources */ = {isa = PBXBuildFile; fileRef = 651F8507194D11F0001414BA /* facebookbutton.png */; };
+		651F850A194D11F8001414BA /* kalturabutton.png in Resources */ = {isa = PBXBuildFile; fileRef = 651F8509194D11F8001414BA /* kalturabutton.png */; };
+		651F850C194D12C9001414BA /* KalturaLoginView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 651F850B194D12C9001414BA /* KalturaLoginView.xib */; };
+		651F850F194D1387001414BA /* DVKalturaLoginButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 651F850E194D1387001414BA /* DVKalturaLoginButton.m */; };
+		651F8512194D2037001414BA /* DVTagView.m in Sources */ = {isa = PBXBuildFile; fileRef = 651F8511194D2037001414BA /* DVTagView.m */; };
+		651F851B194D3ADF001414BA /* DVVideoPickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 651F851A194D3ADF001414BA /* DVVideoPickerViewController.m */; };
+		652E392A194BDAF6008D6610 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 652E3929194BDAF6008D6610 /* Foundation.framework */; };
+		652E392C194BDAF6008D6610 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 652E392B194BDAF6008D6610 /* CoreGraphics.framework */; };
+		652E392E194BDAF6008D6610 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 652E392D194BDAF6008D6610 /* UIKit.framework */; };
+		652E3934194BDAF6008D6610 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 652E3932194BDAF6008D6610 /* InfoPlist.strings */; };
+		652E3936194BDAF6008D6610 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 652E3935194BDAF6008D6610 /* main.m */; };
+		652E393A194BDAF6008D6610 /* DVAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 652E3939194BDAF6008D6610 /* DVAppDelegate.m */; };
+		652E3940194BDAF6008D6610 /* DVViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 652E393F194BDAF6008D6610 /* DVViewController.m */; };
+		652E3942194BDAF6008D6610 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 652E3941194BDAF6008D6610 /* Images.xcassets */; };
+		652E3949194BDAF6008D6610 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 652E3948194BDAF6008D6610 /* XCTest.framework */; };
+		652E394A194BDAF6008D6610 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 652E3929194BDAF6008D6610 /* Foundation.framework */; };
+		652E394B194BDAF6008D6610 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 652E392D194BDAF6008D6610 /* UIKit.framework */; };
+		652E3953194BDAF6008D6610 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 652E3951194BDAF6008D6610 /* InfoPlist.strings */; };
+		652E3955194BDAF6008D6610 /* DejaVuTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 652E3954194BDAF6008D6610 /* DejaVuTests.m */; };
+		652E3961194C185B008D6610 /* DVDejaVuServerClient.m in Sources */ = {isa = PBXBuildFile; fileRef = 652E3960194C185B008D6610 /* DVDejaVuServerClient.m */; };
+		652E3968194C2B49008D6610 /* DVResultsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 652E3967194C2B49008D6610 /* DVResultsViewController.m */; };
+		65939B9D194C3AE500C98E68 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 65939B9C194C3AE500C98E68 /* libz.dylib */; };
+		65939B9F194C3AEF00C98E68 /* libxml2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 65939B9E194C3AEF00C98E68 /* libxml2.dylib */; };
+		65939BA1194C3AF800C98E68 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 65939BA0194C3AF800C98E68 /* CFNetwork.framework */; };
+		65939BA3194C3B0000C98E68 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 65939BA2194C3B0000C98E68 /* MobileCoreServices.framework */; };
+		65939BA5194C3B0700C98E68 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 65939BA4194C3B0700C98E68 /* SystemConfiguration.framework */; };
+		65939C7B194C43EC00C98E68 /* libKalturaClient.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 65939C67194C41E300C98E68 /* libKalturaClient.a */; };
+		65939C84194CAC3900C98E68 /* DVMoviePlayerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 65939C83194CAC3900C98E68 /* DVMoviePlayerViewController.m */; };
+		65939C86194CAC6400C98E68 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 65939C85194CAC6400C98E68 /* MediaPlayer.framework */; };
+		65939C88194CAC6E00C98E68 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 65939C87194CAC6E00C98E68 /* AVFoundation.framework */; };
+		65939C8B194CAFCF00C98E68 /* DVKalturaServerClient.m in Sources */ = {isa = PBXBuildFile; fileRef = 65939C8A194CAFCF00C98E68 /* DVKalturaServerClient.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		652E394C194BDAF6008D6610 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 652E391E194BDAF6008D6610 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 652E3925194BDAF6008D6610;
+			remoteInfo = DejaVu;
+		};
+		65939C66194C41E300C98E68 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 65939C62194C41E300C98E68 /* KalturaClient.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 29133452149646BB006D8A8C;
+			remoteInfo = KalturaClient;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		2153DD4B6D3048AA9EDA1127 /* Pods-DejaVu.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DejaVu.xcconfig"; path = "Pods/Pods-DejaVu.xcconfig"; sourceTree = "<group>"; };
+		651F84E4194CC00B001414BA /* DVFirstView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DVFirstView.h; sourceTree = "<group>"; };
+		651F84E5194CC00B001414BA /* DVFirstView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DVFirstView.m; sourceTree = "<group>"; };
+		651F84E9194CC068001414BA /* DVFirstView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DVFirstView.xib; sourceTree = "<group>"; };
+		651F84F4194D062B001414BA /* DVResultsHeaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DVResultsHeaderView.h; sourceTree = "<group>"; };
+		651F84F5194D062B001414BA /* DVResultsHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DVResultsHeaderView.m; sourceTree = "<group>"; };
+		651F84F7194D0845001414BA /* dejavu-backgroun.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dejavu-backgroun.png"; sourceTree = "<group>"; };
+		651F84F9194D0997001414BA /* big-dejavu-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "big-dejavu-logo.png"; sourceTree = "<group>"; };
+		651F84FA194D0997001414BA /* small-dejavu-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "small-dejavu-logo.png"; sourceTree = "<group>"; };
+		651F84FB194D0997001414BA /* X.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = X.png; sourceTree = "<group>"; };
+		651F8502194D1009001414BA /* DVLoginButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DVLoginButton.h; sourceTree = "<group>"; };
+		651F8503194D1009001414BA /* DVLoginButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DVLoginButton.m; sourceTree = "<group>"; };
+		651F8505194D103D001414BA /* DVLoginButton.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DVLoginButton.xib; sourceTree = "<group>"; };
+		651F8507194D11F0001414BA /* facebookbutton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = facebookbutton.png; sourceTree = "<group>"; };
+		651F8509194D11F8001414BA /* kalturabutton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kalturabutton.png; sourceTree = "<group>"; };
+		651F850B194D12C9001414BA /* KalturaLoginView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = KalturaLoginView.xib; sourceTree = "<group>"; };
+		651F850D194D1387001414BA /* DVKalturaLoginButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DVKalturaLoginButton.h; sourceTree = "<group>"; };
+		651F850E194D1387001414BA /* DVKalturaLoginButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DVKalturaLoginButton.m; sourceTree = "<group>"; };
+		651F8510194D2037001414BA /* DVTagView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DVTagView.h; sourceTree = "<group>"; };
+		651F8511194D2037001414BA /* DVTagView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DVTagView.m; sourceTree = "<group>"; };
+		651F8519194D3ADF001414BA /* DVVideoPickerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DVVideoPickerViewController.h; sourceTree = "<group>"; };
+		651F851A194D3ADF001414BA /* DVVideoPickerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DVVideoPickerViewController.m; sourceTree = "<group>"; };
+		652E3926194BDAF6008D6610 /* DejaVu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DejaVu.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		652E3929194BDAF6008D6610 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		652E392B194BDAF6008D6610 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		652E392D194BDAF6008D6610 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		652E3931194BDAF6008D6610 /* DejaVu-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DejaVu-Info.plist"; sourceTree = "<group>"; };
+		652E3933194BDAF6008D6610 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		652E3935194BDAF6008D6610 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		652E3937194BDAF6008D6610 /* DejaVu-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DejaVu-Prefix.pch"; sourceTree = "<group>"; };
+		652E3938194BDAF6008D6610 /* DVAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DVAppDelegate.h; sourceTree = "<group>"; };
+		652E3939194BDAF6008D6610 /* DVAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DVAppDelegate.m; sourceTree = "<group>"; };
+		652E393E194BDAF6008D6610 /* DVViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DVViewController.h; sourceTree = "<group>"; };
+		652E393F194BDAF6008D6610 /* DVViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DVViewController.m; sourceTree = "<group>"; };
+		652E3941194BDAF6008D6610 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		652E3947194BDAF6008D6610 /* DejaVuTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DejaVuTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		652E3948194BDAF6008D6610 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		652E3950194BDAF6008D6610 /* DejaVuTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DejaVuTests-Info.plist"; sourceTree = "<group>"; };
+		652E3952194BDAF6008D6610 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		652E3954194BDAF6008D6610 /* DejaVuTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DejaVuTests.m; sourceTree = "<group>"; };
+		652E395F194C185B008D6610 /* DVDejaVuServerClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DVDejaVuServerClient.h; path = Network/DVDejaVuServerClient.h; sourceTree = "<group>"; };
+		652E3960194C185B008D6610 /* DVDejaVuServerClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DVDejaVuServerClient.m; path = Network/DVDejaVuServerClient.m; sourceTree = "<group>"; };
+		652E3966194C2B49008D6610 /* DVResultsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DVResultsViewController.h; sourceTree = "<group>"; };
+		652E3967194C2B49008D6610 /* DVResultsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DVResultsViewController.m; sourceTree = "<group>"; };
+		65939B9C194C3AE500C98E68 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		65939B9E194C3AEF00C98E68 /* libxml2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.dylib; path = usr/lib/libxml2.dylib; sourceTree = SDKROOT; };
+		65939BA0194C3AF800C98E68 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		65939BA2194C3B0000C98E68 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+		65939BA4194C3B0700C98E68 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		65939C62194C41E300C98E68 /* KalturaClient.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = KalturaClient.xcodeproj; path = DejaVu/KalturaClient/KalturaClient.xcodeproj; sourceTree = SOURCE_ROOT; };
+		65939C82194CAC3900C98E68 /* DVMoviePlayerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DVMoviePlayerViewController.h; sourceTree = "<group>"; };
+		65939C83194CAC3900C98E68 /* DVMoviePlayerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DVMoviePlayerViewController.m; sourceTree = "<group>"; };
+		65939C85194CAC6400C98E68 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		65939C87194CAC6E00C98E68 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		65939C89194CAFCF00C98E68 /* DVKalturaServerClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DVKalturaServerClient.h; path = ../DVKalturaServerClient.h; sourceTree = "<group>"; };
+		65939C8A194CAFCF00C98E68 /* DVKalturaServerClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DVKalturaServerClient.m; path = ../DVKalturaServerClient.m; sourceTree = "<group>"; };
+		89A4CABA222541809EEC0FB6 /* libPods-DejaVu.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-DejaVu.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		652E3923194BDAF6008D6610 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				65939C88194CAC6E00C98E68 /* AVFoundation.framework in Frameworks */,
+				65939C86194CAC6400C98E68 /* MediaPlayer.framework in Frameworks */,
+				65939C7B194C43EC00C98E68 /* libKalturaClient.a in Frameworks */,
+				65939BA5194C3B0700C98E68 /* SystemConfiguration.framework in Frameworks */,
+				65939BA3194C3B0000C98E68 /* MobileCoreServices.framework in Frameworks */,
+				65939BA1194C3AF800C98E68 /* CFNetwork.framework in Frameworks */,
+				65939B9F194C3AEF00C98E68 /* libxml2.dylib in Frameworks */,
+				65939B9D194C3AE500C98E68 /* libz.dylib in Frameworks */,
+				652E392C194BDAF6008D6610 /* CoreGraphics.framework in Frameworks */,
+				652E392E194BDAF6008D6610 /* UIKit.framework in Frameworks */,
+				652E392A194BDAF6008D6610 /* Foundation.framework in Frameworks */,
+				05655B2FF4B54AA0A4C11ACE /* libPods-DejaVu.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		652E3944194BDAF6008D6610 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				652E3949194BDAF6008D6610 /* XCTest.framework in Frameworks */,
+				652E394B194BDAF6008D6610 /* UIKit.framework in Frameworks */,
+				652E394A194BDAF6008D6610 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		651F84EE194CE17B001414BA /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				651F84E4194CC00B001414BA /* DVFirstView.h */,
+				651F84E5194CC00B001414BA /* DVFirstView.m */,
+				651F84E9194CC068001414BA /* DVFirstView.xib */,
+				651F84F4194D062B001414BA /* DVResultsHeaderView.h */,
+				651F84F5194D062B001414BA /* DVResultsHeaderView.m */,
+				651F8502194D1009001414BA /* DVLoginButton.h */,
+				651F8503194D1009001414BA /* DVLoginButton.m */,
+				651F8505194D103D001414BA /* DVLoginButton.xib */,
+				651F850B194D12C9001414BA /* KalturaLoginView.xib */,
+				651F850D194D1387001414BA /* DVKalturaLoginButton.h */,
+				651F850E194D1387001414BA /* DVKalturaLoginButton.m */,
+				651F8510194D2037001414BA /* DVTagView.h */,
+				651F8511194D2037001414BA /* DVTagView.m */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		652E391D194BDAF6008D6610 = {
+			isa = PBXGroup;
+			children = (
+				652E392F194BDAF6008D6610 /* DejaVu */,
+				652E394E194BDAF6008D6610 /* DejaVuTests */,
+				652E3928194BDAF6008D6610 /* Frameworks */,
+				652E3927194BDAF6008D6610 /* Products */,
+				2153DD4B6D3048AA9EDA1127 /* Pods-DejaVu.xcconfig */,
+			);
+			sourceTree = "<group>";
+		};
+		652E3927194BDAF6008D6610 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				652E3926194BDAF6008D6610 /* DejaVu.app */,
+				652E3947194BDAF6008D6610 /* DejaVuTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		652E3928194BDAF6008D6610 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				65939C87194CAC6E00C98E68 /* AVFoundation.framework */,
+				65939C85194CAC6400C98E68 /* MediaPlayer.framework */,
+				65939C62194C41E300C98E68 /* KalturaClient.xcodeproj */,
+				65939BA4194C3B0700C98E68 /* SystemConfiguration.framework */,
+				65939BA2194C3B0000C98E68 /* MobileCoreServices.framework */,
+				65939BA0194C3AF800C98E68 /* CFNetwork.framework */,
+				65939B9E194C3AEF00C98E68 /* libxml2.dylib */,
+				65939B9C194C3AE500C98E68 /* libz.dylib */,
+				652E3929194BDAF6008D6610 /* Foundation.framework */,
+				652E392B194BDAF6008D6610 /* CoreGraphics.framework */,
+				652E392D194BDAF6008D6610 /* UIKit.framework */,
+				652E3948194BDAF6008D6610 /* XCTest.framework */,
+				89A4CABA222541809EEC0FB6 /* libPods-DejaVu.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		652E392F194BDAF6008D6610 /* DejaVu */ = {
+			isa = PBXGroup;
+			children = (
+				651F84EE194CE17B001414BA /* Views */,
+				652E3965194C2B33008D6610 /* View Controllers */,
+				652E395E194BDB00008D6610 /* Network */,
+				652E3941194BDAF6008D6610 /* Images.xcassets */,
+				652E3930194BDAF6008D6610 /* Supporting Files */,
+			);
+			path = DejaVu;
+			sourceTree = "<group>";
+		};
+		652E3930194BDAF6008D6610 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				651F8509194D11F8001414BA /* kalturabutton.png */,
+				651F8507194D11F0001414BA /* facebookbutton.png */,
+				651F84F9194D0997001414BA /* big-dejavu-logo.png */,
+				651F84FA194D0997001414BA /* small-dejavu-logo.png */,
+				651F84FB194D0997001414BA /* X.png */,
+				651F84F7194D0845001414BA /* dejavu-backgroun.png */,
+				652E3938194BDAF6008D6610 /* DVAppDelegate.h */,
+				652E3939194BDAF6008D6610 /* DVAppDelegate.m */,
+				652E3931194BDAF6008D6610 /* DejaVu-Info.plist */,
+				652E3932194BDAF6008D6610 /* InfoPlist.strings */,
+				652E3935194BDAF6008D6610 /* main.m */,
+				652E3937194BDAF6008D6610 /* DejaVu-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		652E394E194BDAF6008D6610 /* DejaVuTests */ = {
+			isa = PBXGroup;
+			children = (
+				652E3954194BDAF6008D6610 /* DejaVuTests.m */,
+				652E394F194BDAF6008D6610 /* Supporting Files */,
+			);
+			path = DejaVuTests;
+			sourceTree = "<group>";
+		};
+		652E394F194BDAF6008D6610 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				652E3950194BDAF6008D6610 /* DejaVuTests-Info.plist */,
+				652E3951194BDAF6008D6610 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		652E395E194BDB00008D6610 /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				652E395F194C185B008D6610 /* DVDejaVuServerClient.h */,
+				652E3960194C185B008D6610 /* DVDejaVuServerClient.m */,
+				65939C89194CAFCF00C98E68 /* DVKalturaServerClient.h */,
+				65939C8A194CAFCF00C98E68 /* DVKalturaServerClient.m */,
+			);
+			name = Network;
+			sourceTree = "<group>";
+		};
+		652E3965194C2B33008D6610 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				652E3966194C2B49008D6610 /* DVResultsViewController.h */,
+				652E3967194C2B49008D6610 /* DVResultsViewController.m */,
+				652E393E194BDAF6008D6610 /* DVViewController.h */,
+				652E393F194BDAF6008D6610 /* DVViewController.m */,
+				65939C82194CAC3900C98E68 /* DVMoviePlayerViewController.h */,
+				65939C83194CAC3900C98E68 /* DVMoviePlayerViewController.m */,
+				651F8519194D3ADF001414BA /* DVVideoPickerViewController.h */,
+				651F851A194D3ADF001414BA /* DVVideoPickerViewController.m */,
+			);
+			name = "View Controllers";
+			sourceTree = "<group>";
+		};
+		65939C63194C41E300C98E68 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				65939C67194C41E300C98E68 /* libKalturaClient.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		652E3925194BDAF6008D6610 /* DejaVu */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 652E3958194BDAF6008D6610 /* Build configuration list for PBXNativeTarget "DejaVu" */;
+			buildPhases = (
+				77713838FC5C4DA7B99C168D /* Check Pods Manifest.lock */,
+				652E3922194BDAF6008D6610 /* Sources */,
+				652E3923194BDAF6008D6610 /* Frameworks */,
+				652E3924194BDAF6008D6610 /* Resources */,
+				CB984F7A7DC8437F865AB089 /* Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DejaVu;
+			productName = DejaVu;
+			productReference = 652E3926194BDAF6008D6610 /* DejaVu.app */;
+			productType = "com.apple.product-type.application";
+		};
+		652E3946194BDAF6008D6610 /* DejaVuTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 652E395B194BDAF6008D6610 /* Build configuration list for PBXNativeTarget "DejaVuTests" */;
+			buildPhases = (
+				652E3943194BDAF6008D6610 /* Sources */,
+				652E3944194BDAF6008D6610 /* Frameworks */,
+				652E3945194BDAF6008D6610 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				652E394D194BDAF6008D6610 /* PBXTargetDependency */,
+			);
+			name = DejaVuTests;
+			productName = DejaVuTests;
+			productReference = 652E3947194BDAF6008D6610 /* DejaVuTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		652E391E194BDAF6008D6610 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = DV;
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = "Ryan Cleeton";
+				TargetAttributes = {
+					652E3946194BDAF6008D6610 = {
+						TestTargetID = 652E3925194BDAF6008D6610;
+					};
+				};
+			};
+			buildConfigurationList = 652E3921194BDAF6008D6610 /* Build configuration list for PBXProject "DejaVu" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 652E391D194BDAF6008D6610;
+			productRefGroup = 652E3927194BDAF6008D6610 /* Products */;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 65939C63194C41E300C98E68 /* Products */;
+					ProjectRef = 65939C62194C41E300C98E68 /* KalturaClient.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+				652E3925194BDAF6008D6610 /* DejaVu */,
+				652E3946194BDAF6008D6610 /* DejaVuTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		65939C67194C41E300C98E68 /* libKalturaClient.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libKalturaClient.a;
+			remoteRef = 65939C66194C41E300C98E68 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
+/* Begin PBXResourcesBuildPhase section */
+		652E3924194BDAF6008D6610 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				651F84EA194CC068001414BA /* DVFirstView.xib in Resources */,
+				651F8508194D11F0001414BA /* facebookbutton.png in Resources */,
+				652E3942194BDAF6008D6610 /* Images.xcassets in Resources */,
+				652E3934194BDAF6008D6610 /* InfoPlist.strings in Resources */,
+				651F850C194D12C9001414BA /* KalturaLoginView.xib in Resources */,
+				651F84F8194D0845001414BA /* dejavu-backgroun.png in Resources */,
+				651F8506194D103D001414BA /* DVLoginButton.xib in Resources */,
+				651F84FE194D0997001414BA /* X.png in Resources */,
+				651F84FC194D0997001414BA /* big-dejavu-logo.png in Resources */,
+				651F850A194D11F8001414BA /* kalturabutton.png in Resources */,
+				651F84FD194D0997001414BA /* small-dejavu-logo.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		652E3945194BDAF6008D6610 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				652E3953194BDAF6008D6610 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		77713838FC5C4DA7B99C168D /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		CB984F7A7DC8437F865AB089 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-DejaVu-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		652E3922194BDAF6008D6610 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				652E3961194C185B008D6610 /* DVDejaVuServerClient.m in Sources */,
+				652E3968194C2B49008D6610 /* DVResultsViewController.m in Sources */,
+				652E393A194BDAF6008D6610 /* DVAppDelegate.m in Sources */,
+				651F8512194D2037001414BA /* DVTagView.m in Sources */,
+				651F851B194D3ADF001414BA /* DVVideoPickerViewController.m in Sources */,
+				651F84F6194D062B001414BA /* DVResultsHeaderView.m in Sources */,
+				652E3940194BDAF6008D6610 /* DVViewController.m in Sources */,
+				652E3936194BDAF6008D6610 /* main.m in Sources */,
+				651F84E6194CC00B001414BA /* DVFirstView.m in Sources */,
+				651F8504194D1009001414BA /* DVLoginButton.m in Sources */,
+				65939C8B194CAFCF00C98E68 /* DVKalturaServerClient.m in Sources */,
+				65939C84194CAC3900C98E68 /* DVMoviePlayerViewController.m in Sources */,
+				651F850F194D1387001414BA /* DVKalturaLoginButton.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		652E3943194BDAF6008D6610 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				652E3955194BDAF6008D6610 /* DejaVuTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		652E394D194BDAF6008D6610 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 652E3925194BDAF6008D6610 /* DejaVu */;
+			targetProxy = 652E394C194BDAF6008D6610 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		652E3932194BDAF6008D6610 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				652E3933194BDAF6008D6610 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		652E3951194BDAF6008D6610 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				652E3952194BDAF6008D6610 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		652E3956194BDAF6008D6610 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		652E3957194BDAF6008D6610 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		652E3959194BDAF6008D6610 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2153DD4B6D3048AA9EDA1127 /* Pods-DejaVu.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "DejaVu/DejaVu-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"\"${PODS_ROOT}/Headers\"",
+					"\"${PODS_ROOT}/Headers/AFNetworking\"",
+					../KalturaClient/KalturaClient/KalturaPlugins,
+					../KalturaClient/KalturaClient/ASIHTTPRequest,
+					../KalturaClient/KalturaClient,
+				);
+				INFOPLIST_FILE = "DejaVu/DejaVu-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		652E395A194BDAF6008D6610 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2153DD4B6D3048AA9EDA1127 /* Pods-DejaVu.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "DejaVu/DejaVu-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"\"${PODS_ROOT}/Headers\"",
+					"\"${PODS_ROOT}/Headers/AFNetworking\"",
+					../KalturaClient/KalturaClient/KalturaPlugins,
+					../KalturaClient/KalturaClient/ASIHTTPRequest,
+					../KalturaClient/KalturaClient,
+				);
+				INFOPLIST_FILE = "DejaVu/DejaVu-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		652E395C194BDAF6008D6610 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/DejaVu.app/DejaVu";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "DejaVu/DejaVu-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "DejaVuTests/DejaVuTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		652E395D194BDAF6008D6610 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/DejaVu.app/DejaVu";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "DejaVu/DejaVu-Prefix.pch";
+				INFOPLIST_FILE = "DejaVuTests/DejaVuTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		652E3921194BDAF6008D6610 /* Build configuration list for PBXProject "DejaVu" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				652E3956194BDAF6008D6610 /* Debug */,
+				652E3957194BDAF6008D6610 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		652E3958194BDAF6008D6610 /* Build configuration list for PBXNativeTarget "DejaVu" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				652E3959194BDAF6008D6610 /* Debug */,
+				652E395A194BDAF6008D6610 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		652E395B194BDAF6008D6610 /* Build configuration list for PBXNativeTarget "DejaVuTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				652E395C194BDAF6008D6610 /* Debug */,
+				652E395D194BDAF6008D6610 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 652E391E194BDAF6008D6610 /* Project object */;
+}

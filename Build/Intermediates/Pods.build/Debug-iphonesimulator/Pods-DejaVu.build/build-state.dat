@@ -1,0 +1,98 @@
+TPods-DejaVu
+v6
+r1
+cCheck dependencies
+cCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu.build/Objects-normal/i386/Pods-DejaVu-dummy.o /Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/libPods-DejaVu.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005354294F0000000000A90C10
+t1398024527
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005354296100000000000003B4
+t1398024545
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053542968000000000000019E
+t1398024552
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000535429990000000000000ADC
+t1398024601
+s2780
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu.build/Objects-normal/i386/Pods-DejaVu-dummy.o
+t1402766483
+s3140
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu.build/Objects-normal/i386/Pods-DejaVu.LinkFileList
+c00000000539C78740000000000000091
+t1402763380
+s145
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/libPods-DejaVu-AFNetworking.a
+c00000000539D422800000000001644A0
+t1402815016
+s1459360
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/libPods-DejaVu-Bolts.a
+c00000000539C84900000000000073928
+t1402766480
+s473384
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/libPods-DejaVu-Facebook-iOS-SDK.a
+c00000000539C849300000000004973D8
+t1402766483
+s4813784
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/libPods-DejaVu.a
+t1402815017
+s6749648
+
+N/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-dummy.m
+c00000000539C8288000000000000007E
+t1402765960
+s126
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies68971b4ab54db941^4c891c4ab54db941^---0#1#1#--18"Check dependencies36"25C20F55-78A7-4839-A231-366FDECCFE05-
+
+CCompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu.build/Objects-normal/i386/Pods-DejaVu-dummy.o /Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424459283.773098
+e424459283.838517
+r1
+xCompileC
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu.build/Objects-normal/i386/Pods-DejaVu-dummy.o
+x/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-dummy.m241"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu.build/Objects-normal/i386/Pods-DejaVu-dummy.o Pods-DejaVu-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3c13c613bc4cb941^5ed8d613bc4cb941^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-dummy.m0000000000000000^4042"CompileC /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu.build/Objects-normal/i386/Pods-DejaVu-dummy.o Pods-DejaVu-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu.build/Pods-DejaVu-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu.build/Pods-DejaVu-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu.build/Pods-DejaVu-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu.build/Pods-DejaVu-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Pods/Headers/AFNetworking -I/Users/ryancleeton/Desktop/DejaVu/Pods/Pods/Headers/Bolts -I/Users/ryancleeton/Desktop/DejaVu/Pods/Pods/Headers/Facebook-iOS-SDK -I/Users/ryancleeton/Desktop/DejaVu/Pods/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Pods/Headers -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Pods/Headers/AFNetworking -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Pods/Headers/Bolts -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Pods/Headers/Facebook-iOS-SDK -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu.build/Objects-normal/i386/Pods-DejaVu-dummy.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu.build/Objects-normal/i386/Pods-DejaVu-dummy.dia -c /Users/ryancleeton/Desktop/DejaVu/Pods/Pods-DejaVu-dummy.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu.build/Objects-normal/i386/Pods-DejaVu-dummy.o36"33176154-5255-40C5-90FC-EB5FE43440AE-
+bA8583FB1-9405-43CD-B6F3-43688C7D457A
+
+CLibtool /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/libPods-DejaVu.a normal i386
+s424507817.237499
+e424507817.377974
+r1
+xLibtool
+x/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/libPods-DejaVu.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Libtool /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/libPods-DejaVu.a normal i386107"Libtool /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/libPods-DejaVu.a normal i386f4de3ca9794db941^570a61a9794db941^---0#0#1#--1066"Libtool /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/libPods-DejaVu.a normal i386    cd /Users/ryancleeton/Desktop/DejaVu/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -filelist /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-DejaVu.build/Objects-normal/i386/Pods-DejaVu.LinkFileList -framework Foundation -lPods-DejaVu-AFNetworking -lPods-DejaVu-Bolts -lPods-DejaVu-Facebook-iOS-SDK -o /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/libPods-DejaVu.a36"579448BB-D0EB-4ECD-ADD1-10B1553225D1-
+b3F1BB932-0536-4F12-8900-DE68D166A276
+

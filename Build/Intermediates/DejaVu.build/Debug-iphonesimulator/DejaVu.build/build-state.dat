@@ -1,0 +1,1514 @@
+TDejaVu
+v6
+r1
+cCheck dependencies
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Script-77713838FC5C4DA7B99C168D.sh
+cProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-edfjehivncqgowdkayghnpfckday/DejaVu-Prefix.pch.pch DejaVu/DejaVu-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVDejaVuServerClient.o /Users/ryancleeton/Desktop/DejaVu/DejaVu/Network/DVDejaVuServerClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVResultsViewController.o /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVResultsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVAppDelegate.o /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVTagView.o /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVTagView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVVideoPickerViewController.o /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVResultsHeaderView.o /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVResultsHeaderView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVViewController.o /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/main.o /Users/ryancleeton/Desktop/DejaVu/DejaVu/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVFirstView.o /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVFirstView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVLoginButton.o /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVLoginButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaServerClient.o /Users/ryancleeton/Desktop/DejaVu/DVKalturaServerClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVMoviePlayerViewController.o /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVMoviePlayerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaLoginButton.o /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVKalturaLoginButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/DejaVu normal i386
+cCompileXIB /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVFirstView.xib
+cCpResource DejaVu/facebookbutton.png Build/Products/Debug-iphonesimulator/DejaVu.app/facebookbutton.png
+cCopyStringsFile /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/en.lproj/InfoPlist.strings DejaVu/en.lproj/InfoPlist.strings
+cCompileXIB /Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaLoginView.xib
+cCpResource DejaVu/dejavu-backgroun.png Build/Products/Debug-iphonesimulator/DejaVu.app/dejavu-backgroun.png
+cCompileXIB /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVLoginButton.xib
+cCpResource DejaVu/X.png Build/Products/Debug-iphonesimulator/DejaVu.app/X.png
+cCpResource DejaVu/big-dejavu-logo.png Build/Products/Debug-iphonesimulator/DejaVu.app/big-dejavu-logo.png
+cCpResource DejaVu/kalturabutton.png Build/Products/Debug-iphonesimulator/DejaVu.app/kalturabutton.png
+cCpResource DejaVu/small-dejavu-logo.png Build/Products/Debug-iphonesimulator/DejaVu.app/small-dejavu-logo.png
+cCompileAssetCatalog /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app /Users/ryancleeton/Desktop/DejaVu/DejaVu/Images.xcassets
+cProcessInfoPlistFile /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/Info.plist /Users/ryancleeton/Desktop/DejaVu/DejaVu/DejaVu-Info.plist
+cGenerateDSYMFile /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app.dSYM /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/DejaVu
+cPhaseScriptExecution Copy\ Pods\ Resources /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Script-CB984F7A7DC8437F865AB089.sh
+cTouch /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005354296100000000000003B4
+t1398024545
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053542968000000000000019E
+t1398024552
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000005354296A0000000000484210
+t1398024554
+s4735504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+c000000005354296A0000000000098030
+t1398024554
+s622640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accounts.framework/Accounts
+c000000005354296900000000000942B0
+t1398024553
+s606896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AdSupport.framework/AdSupport
+c00000000535429690000000000008CC0
+t1398024553
+s36032
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000005354296B0000000000904120
+t1398024555
+s9453856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000005354296B000000000058E0E0
+t1398024555
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000005354296A00000000000FB140
+t1398024554
+s1028416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005354296B00000000005B82F0
+t1398024555
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005354296B0000000000446820
+t1398024555
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c000000005354296B00000000003599D0
+t1398024555
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000005354296B00000000000F1A80
+t1398024555
+s989824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+c000000005354296B00000000000CF090
+t1398024555
+s848016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000005354296B00000000002FC3B0
+t1398024555
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000005354296B000000000004B000
+t1398024555
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005354296C000000000088D8C0
+t1398024556
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000005354296D0000000000799E30
+t1398024557
+s7970352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000005354296E00000000001BE790
+t1398024558
+s1828752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000005354296E0000000000037680
+t1398024558
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005354296E000000000048F720
+t1398024558
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c000000005354296E000000000013FD70
+t1398024558
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Social.framework/Social
+c000000005354296E0000000000222210
+t1398024558
+s2236944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000005354296E00000000001081C0
+t1398024558
+s1081792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000535429710000000001F1DE10
+t1398024561
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005354297C00000000002BC360
+t1398024572
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000535429830000000000002338
+t1398024579
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c0000000053542983000000000008D370
+t1398024579
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000535429830000000000392E20
+t1398024579
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libxml2.dylib
+c00000000535429840000000000267B60
+t1398024580
+s2521952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib
+c0000000053542984000000000002B700
+t1398024580
+s177920
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c00000000530F512E00000000000141F0
+t1393512750
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000535429840000000000014A80
+t1398024580
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000535429840000000000033BA0
+t1398024580
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c0000000053542984000000000001CFB0
+t1398024580
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000053542984000000000001B2B0
+t1398024580
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c000000005354298400000000000C9570
+t1398024580
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000535429840000000000063280
+t1398024580
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000535429840000000000008880
+t1398024580
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000535429840000000000015080
+t1398024580
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c000000005354298400000000000230F0
+t1398024580
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000053542984000000000000E380
+t1398024580
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000535429840000000000089380
+t1398024580
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000535429840000000000017320
+t1398024580
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000535429840000000000039CD0
+t1398024580
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000053542984000000000000B0B0
+t1398024580
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000535429840000000000167E80
+t1398024580
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c000000005354298400000000000106A0
+t1398024580
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c0000000053542984000000000001CE40
+t1398024580
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c000000005354298400000000000740C0
+t1398024580
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000053542984000000000006CA60
+t1398024580
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000053542984000000000001BAD0
+t1398024580
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000535429840000000000084A20
+t1398024580
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000535429990000000000000ADC
+t1398024601
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c0000000053542999000000000000514C
+t1398024601
+s20812
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVAppDelegate.o
+t1402830282
+s72152
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVDejaVuServerClient.o
+t1402815022
+s32764
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVFirstView.o
+t1402815023
+s43732
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaClient.o
+c00000000539C7AE00000000000000D30
+t1402764000
+s3376
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaLoginButton.o
+t1402815023
+s44736
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaServerClient.o
+t1402815023
+s92432
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVLoginButton.o
+t1402815023
+s44440
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVMoviePlayerViewController.o
+t1402830283
+s49052
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVResultsHeaderView.o
+t1402815023
+s44616
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVResultsViewController.o
+t1402830283
+s146652
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVTagView.o
+t1402830282
+s53216
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVVideoPickerViewController.o
+t1402815023
+s72692
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVViewController.o
+t1402830283
+s124092
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DejaVu.LinkFileList
+c00000000539D422E0000000000000738
+t1402815022
+s1848
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/main.o
+t1402766484
+s3520
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Script-77713838FC5C4DA7B99C168D.sh
+c00000000539C78780000000000000103
+t1402763384
+s259
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Script-CB984F7A7DC8437F865AB089.sh
+c00000000539C78780000000000000036
+t1402763384
+s54
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/assetcatalog_dependencies.txt
+t1402818251
+s355
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/assetcatalog_generated_info.plist
+t1402818251
+s525
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-edfjehivncqgowdkayghnpfckday/DejaVu-Prefix.pch.pch
+t1402766484
+s122640
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-hikvmlhvkqqngsdhsxwruhkjbaos/DejaVu-Prefix.pch.pch
+t1402763384
+s122344
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app
+t1402830284
+s612
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app.dSYM
+t1402818721
+s102
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/DVFirstView.nib
+t1402815024
+s1920
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/DVLoginButton.nib
+t1402815025
+s2376
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/DejaVu
+t1402830284
+s8104824
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/Info.plist
+t1402818251
+s1157
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/KalturaLoginView.nib
+t1402815025
+s1938
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/PkgInfo
+t1402818251
+s8
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/X.png
+t1402815024
+s999
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/big-dejavu-logo.png
+t1402815024
+s6162
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/dejavu-backgroun.png
+t1402815024
+s770212
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/en.lproj/InfoPlist.strings
+t1402763690
+s42
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/facebookbutton.png
+t1402815024
+s7281
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/kalturabutton.png
+t1402815024
+s6156
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/small-dejavu-logo.png
+t1402815024
+s4755
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/libKalturaClient.a
+c00000000539D422E000000000158A340
+t1402815022
+s22586176
+
+N/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/libPods-DejaVu.a
+c00000000539D4229000000000066FDD0
+t1402815017
+s6749648
+
+N/Users/ryancleeton/Desktop/DejaVu/DVKalturaServerClient.h
+c00000000539D11830000000000000300
+t1402802563
+s768
+
+N/Users/ryancleeton/Desktop/DejaVu/DVKalturaServerClient.m
+c00000000539D2B700000000000001A06
+t1402809200
+s6662
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVAppDelegate.h
+c00000000539BA376000000000000011A
+t1402708854
+s282
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVAppDelegate.m
+c00000000539CD70A0000000000000975
+t1402787594
+s2421
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVFirstView.h
+c00000000539C888B00000000000000C8
+t1402767499
+s200
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVFirstView.m
+c00000000539CA2C600000000000002BC
+t1402774214
+s700
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVFirstView.xib
+c00000000539D2F3C0000000000000874
+t1402810172
+s2164
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVKalturaLoginButton.h
+c00000000539CDC9100000000000000DC
+t1402789009
+s220
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVKalturaLoginButton.m
+c00000000539CDE3E0000000000000278
+t1402789438
+s632
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVLoginButton.h
+c00000000539CDC9100000000000000CE
+t1402789009
+s206
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVLoginButton.m
+c00000000539CDD81000000000000022D
+t1402789249
+s557
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVLoginButton.xib
+c00000000539CDC9100000000000009CC
+t1402789009
+s2508
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVMoviePlayerViewController.h
+c00000000539D6B7400000000000001D6
+t1402825588
+s470
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVMoviePlayerViewController.m
+c00000000539D6B7400000000000001B6
+t1402825588
+s438
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVResultsHeaderView.h
+c00000000539CD1040000000000000105
+t1402786052
+s261
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVResultsHeaderView.m
+c00000000539CD1040000000000000284
+t1402786052
+s644
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVResultsViewController.h
+c00000000539D60A70000000000000156
+t1402822823
+s342
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVResultsViewController.m
+c00000000539D7AC70000000000004DE3
+t1402829511
+s19939
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVTagView.h
+c00000000539D59F400000000000000EC
+t1402821108
+s236
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVTagView.m
+c00000000539D627F000000000000072E
+t1402823295
+s1838
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.h
+c00000000539D035E00000000000000F2
+t1402798942
+s242
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.m
+c00000000539D09E2000000000000167F
+t1402800610
+s5759
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVViewController.h
+c00000000539CAA8300000000000000DC
+t1402776195
+s220
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVViewController.m
+c00000000539D6F8C0000000000002DB8
+t1402826636
+s11704
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/DejaVu-Info.plist
+c00000000539D41E900000000000005D6
+t1402814953
+s1494
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/DejaVu-Prefix.pch
+c00000000539BA3760000000000000158
+t1402708854
+s344
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/Images.xcassets
+c00000000539D42790000000000000088
+t1402815097
+s136
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/ASIHttpRequest/ASIHTTPRequestDelegate.h
+c00000000539BD0F5000000000000063E
+t1402720501
+s1598
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/ASIHttpRequest/ASIProgressDelegate.h
+c00000000539BD0F50000000000000678
+t1402720501
+s1656
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/KalturaClient.h
+c00000000539BD0F500000000000647A6
+t1402720501
+s411558
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/KalturaClientBase.h
+c00000000539C0DBE0000000000001E87
+t1402736062
+s7815
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/KalturaXmlParsers.h
+c00000000539BD0F50000000000001334
+t1402720501
+s4916
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaLoginView.xib
+c00000000539CDED40000000000000B02
+t1402789588
+s2818
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/Network/DVDejaVuServerClient.h
+c00000000539C7A8300000000000003A4
+t1402763907
+s932
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/Network/DVDejaVuServerClient.m
+c00000000539D2B7000000000000009AF
+t1402809200
+s2479
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/Network/DVKalturaClient.h
+c00000000539C7A8400000000000000DC
+t1402763908
+s220
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/Network/DVKalturaClient.m
+c00000000539C7AE000000000000000D0
+t1402764000
+s208
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/X.png
+c00000000539C4FC400000000000003E7
+t1402752964
+s999
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/big-dejavu-logo.png
+c00000000539C50A20000000000001812
+t1402753186
+s6162
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/dejavu-backgroun.png
+c00000000539CD06D00000000000BC0A4
+t1402785901
+s770212
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/en.lproj/InfoPlist.strings
+c00000000539BA376000000000000002D
+t1402708854
+s45
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/facebookbutton.png
+c00000000539CDA320000000000001C71
+t1402788402
+s7281
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/kalturabutton.png
+c00000000539CDA24000000000000180C
+t1402788388
+s6156
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/main.m
+c00000000539BA3760000000000000156
+t1402708854
+s342
+
+N/Users/ryancleeton/Desktop/DejaVu/DejaVu/small-dejavu-logo.png
+c00000000539C50C30000000000001293
+t1402753219
+s4755
+
+N/usr/lib/libSystem.B.dylib
+c0000000052403836000000000000E6D0
+t1379940406
+s59088
+
+N/usr/lib/system/libcache.dylib
+c00000000524038420000000000012A00
+t1379940418
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005240382A000000000002E320
+t1379940394
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000524038360000000000021860
+t1379940406
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000052403842000000000001B620
+t1379940418
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005240384200000000000BD920
+t1379940418
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c00000000530F512E00000000000141F0
+t1393512750
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000052403842000000000000A120
+t1379940418
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c00000000530F512E000000000001D550
+t1393512750
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c00000000524038410000000000014EE0
+t1379940417
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c00000000524038440000000000010380
+t1379940420
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000052403844000000000000C4C0
+t1379940420
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005240384200000000000357A0
+t1379940418
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000052403842000000000000C070
+t1379940418
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000530F51060000000000168D00
+t1393512710
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000530F51290000000000010630
+t1393512745
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c00000000530F512E000000000001DF10
+t1393512750
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000524038360000000000075B00
+t1379940406
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c000000005356AE1C000000000007CC70
+t1398189596
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005240383600000000000766C0
+t1379940406
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000530F512E0000000000044DC0
+t1393512750
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000524038360000000000021FA0
+t1379940406
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c00000000530F512E000000000002D920
+t1393512750
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000052403843000000000001E570
+t1379940419
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c00000000530F511C000000000000CC70
+t1393512732
+s52336
+
+N/usr/lib/system/libunc.dylib
+c000000005240383E000000000000C3F0
+t1379940414
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005240384300000000000199F0
+t1379940419
+s104944
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/DVKalturaServerClient.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVAppDelegate.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVFirstView.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVKalturaLoginButton.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVLoginButton.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVMoviePlayerViewController.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVResultsHeaderView.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVResultsViewController.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVTagView.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVViewController.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/DejaVu/Network/DVDejaVuServerClient.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/DejaVu/Network/DVKalturaClient.m
+r0
+
+CBuild AST from /Users/ryancleeton/Desktop/DejaVu/DejaVu/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies68251d4ab54db941^dcb83d4ab54db941^---0#1#1#--18"Check dependencies36"0E02CF4B-2D24-4DC0-A2D2-2F80FE71F455-
+
+CCompileAssetCatalog /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app /Users/ryancleeton/Desktop/DejaVu/DejaVu/Images.xcassets
+s424511050.542922
+e424511051.341727
+r1
+xCompileAssetCatalog
+x/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app
+x/Users/ryancleeton/Desktop/DejaVu/DejaVu/Images.xcassets
+o/* com.apple.actool.document.warnings */
+o/Users/ryancleeton/Desktop/DejaVu/DejaVu/Images.xcassets:./LaunchImage.launchimage/[iphone][][2x][portrait][full-screen][7.0]: warning: LaunchImage.launchimage/iOS Simulator Screen shot Jun 15, 2014, 2.50.57 AM.png is 640x1136 but should be 640x960.
+o/* com.apple.actool.compilation-results */
+o/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/LaunchImage-700-568h@2x.png
+o/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/Assets.car
+o/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CompileAssetCatalog Build/Products/Debug-iphonesimulator/DejaVu.app DejaVu/Images.xcassets90"CompileAssetCatalog Build/Products/Debug-iphonesimulator/DejaVu.app DejaVu/Images.xcassets4e0a8b4a864db941^fe7c574b864db941^-674"/* com.apple.actool.document.warnings *//Users/ryancleeton/Desktop/DejaVu/DejaVu/Images.xcassets:./LaunchImage.launchimage/[iphone][][2x][portrait][full-screen][7.0]: warning: LaunchImage.launchimage/iOS Simulator Screen shot Jun 15, 2014, 2.50.57 AM.png is 640x1136 but should be 640x960./* com.apple.actool.compilation-results *//Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/LaunchImage-700-568h@2x.png/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/Assets.car/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/assetcatalog_generated_info.plist1(21%IDEActivityLogMessage2@113"LaunchImage.launchimage/iOS Simulator Screen shot Jun 15, 2014, 2.50.57 AM.png is 640x1136 but should be 640x960.-424511051#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@64"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/Images.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--0#0#1#-19%DVTDocumentLocation4@64"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/Images.xcassets/0000000000000000^1105"CompileAssetCatalog Build/Products/Debug-iphonesimulator/DejaVu.app DejaVu/Images.xcassets    cd /Users/ryancleeton/Desktop/DejaVu    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app /Users/ryancleeton/Desktop/DejaVu/DejaVu/Images.xcassets36"03B798EB-F176-4998-AC82-4CD5ED8CBF62-
+b5D06C59B-53F2-41AC-988A-AED49C6C000A
+
+CCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVAppDelegate.o /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424523082.183775
+e424523082.931112
+r1
+xCompileC
+xBuild/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVAppDelegate.o
+x/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVAppDelegate.m
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVAppDelegate.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVViewController.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVResultsViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVAppDelegate.m203"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVAppDelegate.o DejaVu/DVAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0648304ab54db941^1479ee4ab54db941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/DVAppDelegate.m0000000000000000^4077"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVAppDelegate.o DejaVu/DVAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I../KalturaClient/KalturaClient/KalturaPlugins -I../KalturaClient/KalturaClient/ASIHTTPRequest -I../KalturaClient/KalturaClient -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-edfjehivncqgowdkayghnpfckday/DejaVu-Prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVAppDelegate.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVAppDelegate.dia -c /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVAppDelegate.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVAppDelegate.o36"D401EF5F-E7A7-4287-B38C-89914DFD61BC-
+b0BFE0879-9555-4F08-AE2E-B4DA35B83B22
+
+CCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVDejaVuServerClient.o /Users/ryancleeton/Desktop/DejaVu/DejaVu/Network/DVDejaVuServerClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424507822.757237
+e424507822.953249
+r1
+xCompileC
+xBuild/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVDejaVuServerClient.o
+x/Users/ryancleeton/Desktop/DejaVu/DejaVu/Network/DVDejaVuServerClient.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/Network/DVDejaVuServerClient.m
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/Network/DVDejaVuServerClient.h
+d/Users/ryancleeton/Desktop/DejaVu/DVKalturaServerClient.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/KalturaClient.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/KalturaClientBase.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/ASIHttpRequest/ASIHTTPRequestDelegate.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/ASIHttpRequest/ASIProgressDelegate.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/KalturaXmlParsers.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/ryancleeton/Desktop/DejaVu/DejaVu/Network/DVDejaVuServerClient.m225"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVDejaVuServerClient.o DejaVu/Network/DVDejaVuServerClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc2fcc1ae794db941^ebc8f5ae794db941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/Network/DVDejaVuServerClient.m0000000000000000^4135"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVDejaVuServerClient.o DejaVu/Network/DVDejaVuServerClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I../KalturaClient/KalturaClient/KalturaPlugins -I../KalturaClient/KalturaClient/ASIHTTPRequest -I../KalturaClient/KalturaClient -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-edfjehivncqgowdkayghnpfckday/DejaVu-Prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVDejaVuServerClient.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVDejaVuServerClient.dia -c /Users/ryancleeton/Desktop/DejaVu/DejaVu/Network/DVDejaVuServerClient.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVDejaVuServerClient.o36"748095B4-6105-4407-90CD-1C4F9D6E2952-
+b88AAAAE8-6DBC-4AC8-8B8D-7F84AC0F7E1E
+
+CCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVFirstView.o /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVFirstView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424507822.954221
+e424507823.172719
+r1
+xCompileC
+xBuild/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVFirstView.o
+x/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVFirstView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVFirstView.m
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVFirstView.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/Network/DVDejaVuServerClient.h
+d/Users/ryancleeton/Desktop/DejaVu/DVKalturaServerClient.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/KalturaClient.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/KalturaClientBase.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/ASIHttpRequest/ASIHTTPRequestDelegate.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/ASIHttpRequest/ASIProgressDelegate.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/KalturaXmlParsers.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVFirstView.m199"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVFirstView.o DejaVu/DVFirstView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd366f4ae794db941^98322caf794db941^---0#0#1#-19%DVTDocumentLocation2@61"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/DVFirstView.m0000000000000000^4065"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVFirstView.o DejaVu/DVFirstView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I../KalturaClient/KalturaClient/KalturaPlugins -I../KalturaClient/KalturaClient/ASIHTTPRequest -I../KalturaClient/KalturaClient -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-edfjehivncqgowdkayghnpfckday/DejaVu-Prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVFirstView.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVFirstView.dia -c /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVFirstView.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVFirstView.o36"F58C9C4D-9B94-49AE-BC44-78D920D978F0-
+b88AAAAE8-6DBC-4AC8-8B8D-7F84AC0F7E1E
+
+CCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaClient.o /Users/ryancleeton/Desktop/DejaVu/DejaVu/Network/DVKalturaClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424456800.686662
+e424456800.739260
+r1
+xCompileC
+xBuild/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaClient.o
+x/Users/ryancleeton/Desktop/DejaVu/DejaVu/Network/DVKalturaClient.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/Network/DVKalturaClient.m
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/Network/DVKalturaClient.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/ryancleeton/Desktop/DejaVu/DejaVu/Network/DVKalturaClient.m215"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaClient.o DejaVu/Network/DVKalturaClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9fe3af60b24cb941^6059bd60b24cb941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/Network/DVKalturaClient.m0000000000000000^3885"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaClient.o DejaVu/Network/DVKalturaClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I../KalturaClient/KalturaClient/KalturaPlugins -I../KalturaClient/KalturaClient/ASIHTTPRequest -I../KalturaClient/KalturaClient -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-hikvmlhvkqqngsdhsxwruhkjbaos/DejaVu-Prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaClient.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaClient.dia -c /Users/ryancleeton/Desktop/DejaVu/DejaVu/Network/DVKalturaClient.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaClient.o36"B0C3874D-AA37-4BD1-A007-5BA6E7F85445-
+b2F0A0527-BEB7-4C79-86C2-B44926F1F9CD
+
+CCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaLoginButton.o /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVKalturaLoginButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424507823.378993
+e424507823.456106
+r1
+xCompileC
+xBuild/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaLoginButton.o
+x/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVKalturaLoginButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVKalturaLoginButton.m
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVKalturaLoginButton.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVKalturaLoginButton.m217"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaLoginButton.o DejaVu/DVKalturaLoginButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere92661af794db941^16db74af794db941^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/DVKalturaLoginButton.m0000000000000000^4119"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaLoginButton.o DejaVu/DVKalturaLoginButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I../KalturaClient/KalturaClient/KalturaPlugins -I../KalturaClient/KalturaClient/ASIHTTPRequest -I../KalturaClient/KalturaClient -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-edfjehivncqgowdkayghnpfckday/DejaVu-Prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaLoginButton.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaLoginButton.dia -c /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVKalturaLoginButton.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaLoginButton.o36"84AEC082-62C8-4BD7-917C-A35F5595FACC-
+b88AAAAE8-6DBC-4AC8-8B8D-7F84AC0F7E1E
+
+CCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaServerClient.o /Users/ryancleeton/Desktop/DejaVu/DVKalturaServerClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424507823.082143
+e424507823.300854
+r1
+xCompileC
+xBuild/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaServerClient.o
+x/Users/ryancleeton/Desktop/DejaVu/DVKalturaServerClient.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/DVKalturaServerClient.m
+d/Users/ryancleeton/Desktop/DejaVu/DVKalturaServerClient.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/KalturaClient.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/KalturaClientBase.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/ASIHttpRequest/ASIHTTPRequestDelegate.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/ASIHttpRequest/ASIProgressDelegate.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/KalturaXmlParsers.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/Network/DVDejaVuServerClient.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/ryancleeton/Desktop/DejaVu/DVKalturaServerClient.m212"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaServerClient.o DVKalturaServerClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere12415af794db941^f0194daf794db941^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/ryancleeton/Desktop/DejaVu/DVKalturaServerClient.m0000000000000000^4111"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaServerClient.o DVKalturaServerClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I../KalturaClient/KalturaClient/KalturaPlugins -I../KalturaClient/KalturaClient/ASIHTTPRequest -I../KalturaClient/KalturaClient -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-edfjehivncqgowdkayghnpfckday/DejaVu-Prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaServerClient.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaServerClient.dia -c /Users/ryancleeton/Desktop/DejaVu/DVKalturaServerClient.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaServerClient.o36"1C2E2513-5DED-4A1B-9E00-0DAD171FE7A5-
+b88AAAAE8-6DBC-4AC8-8B8D-7F84AC0F7E1E
+
+CCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVLoginButton.o /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVLoginButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424507823.345135
+e424507823.428311
+r1
+xCompileC
+xBuild/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVLoginButton.o
+x/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVLoginButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVLoginButton.m
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVLoginButton.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVLoginButton.m203"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVLoginButton.o DejaVu/DVLoginButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5b7a58af794db941^bf9c6daf794db941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/DVLoginButton.m0000000000000000^4077"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVLoginButton.o DejaVu/DVLoginButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I../KalturaClient/KalturaClient/KalturaPlugins -I../KalturaClient/KalturaClient/ASIHTTPRequest -I../KalturaClient/KalturaClient -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-edfjehivncqgowdkayghnpfckday/DejaVu-Prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVLoginButton.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVLoginButton.dia -c /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVLoginButton.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVLoginButton.o36"74EE913F-A084-488E-B1B4-CCD63E3B0F7A-
+b88AAAAE8-6DBC-4AC8-8B8D-7F84AC0F7E1E
+
+CCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVMoviePlayerViewController.o /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVMoviePlayerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424523082.959368
+e424523083.229191
+r1
+xCompileC
+xBuild/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVMoviePlayerViewController.o
+x/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVMoviePlayerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVMoviePlayerViewController.m
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVMoviePlayerViewController.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/KalturaClient.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/KalturaClientBase.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/ASIHttpRequest/ASIHTTPRequestDelegate.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/ASIHttpRequest/ASIProgressDelegate.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/KalturaXmlParsers.h
+d/Users/ryancleeton/Desktop/DejaVu/DVKalturaServerClient.h
+o/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVMoviePlayerViewController.m:17:17: warning: method definition for 'startPlayingVideo:' not found [-Wincomplete-implementation]
+o@implementation DVMoviePlayerViewController
+o                ^
+oIn file included from /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVMoviePlayerViewController.m:9:
+o/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVMoviePlayerViewController.h:20:1: note: method 'startPlayingVideo:' declared here
+o- (void)startPlayingVideo:(id)video;
+o^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVMoviePlayerViewController.m231"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVMoviePlayerViewController.o DejaVu/DVMoviePlayerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4dbaf54ab54db941^062b4e4bb54db941^-513"/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVMoviePlayerViewController.m:17:17: warning: method definition for 'startPlayingVideo:' not found [-Wincomplete-implementation]@implementation DVMoviePlayerViewController                ^In file included from /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVMoviePlayerViewController.m:9:/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVMoviePlayerViewController.h:20:1: note: method 'startPlayingVideo:' declared here- (void)startPlayingVideo:(id)video;^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@52"Method definition for 'startPlayingVideo:' not found-424523083#18446744073709551615#0#1(2@41"Method 'startPlayingVideo:' declared here-424523083#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@77"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/DVMoviePlayerViewController.h0000000000000000^19#0#19#0#427#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/DVMoviePlayerViewController.m0000000000000000^16#16#16#16#294#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@77"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/DVMoviePlayerViewController.m0000000000000000^4161"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVMoviePlayerViewController.o DejaVu/DVMoviePlayerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I../KalturaClient/KalturaClient/KalturaPlugins -I../KalturaClient/KalturaClient/ASIHTTPRequest -I../KalturaClient/KalturaClient -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-edfjehivncqgowdkayghnpfckday/DejaVu-Prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVMoviePlayerViewController.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVMoviePlayerViewController.dia -c /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVMoviePlayerViewController.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVMoviePlayerViewController.o36"9B07FFE2-FE1A-463B-A5B8-406ACAC3DF3D-
+b0BFE0879-9555-4F08-AE2E-B4DA35B83B22
+
+CCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVResultsHeaderView.o /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVResultsHeaderView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424507823.301340
+e424507823.378318
+r1
+xCompileC
+xBuild/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVResultsHeaderView.o
+x/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVResultsHeaderView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVResultsHeaderView.m
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVResultsHeaderView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVResultsHeaderView.m215"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVResultsHeaderView.o DejaVu/DVResultsHeaderView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler43394daf794db941^bedb60af794db941^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/DVResultsHeaderView.m0000000000000000^4113"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVResultsHeaderView.o DejaVu/DVResultsHeaderView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I../KalturaClient/KalturaClient/KalturaPlugins -I../KalturaClient/KalturaClient/ASIHTTPRequest -I../KalturaClient/KalturaClient -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-edfjehivncqgowdkayghnpfckday/DejaVu-Prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVResultsHeaderView.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVResultsHeaderView.dia -c /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVResultsHeaderView.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVResultsHeaderView.o36"5CD11134-046F-4BBE-AE3A-9B133D9DC6A5-
+b88AAAAE8-6DBC-4AC8-8B8D-7F84AC0F7E1E
+
+CCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVResultsViewController.o /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVResultsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424523082.182836
+e424523083.066580
+r1
+xCompileC
+xBuild/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVResultsViewController.o
+x/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVResultsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVResultsViewController.m
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVResultsViewController.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/KalturaClient.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/KalturaClientBase.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/ASIHttpRequest/ASIHTTPRequestDelegate.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/ASIHttpRequest/ASIProgressDelegate.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/KalturaXmlParsers.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/Network/DVDejaVuServerClient.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVMoviePlayerViewController.h
+d/Users/ryancleeton/Desktop/DejaVu/DVKalturaServerClient.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVTagView.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVResultsViewController.m223"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVResultsViewController.o DejaVu/DVResultsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler23102f4ab54db941^6e33114bb54db941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/DVResultsViewController.m0000000000000000^4137"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVResultsViewController.o DejaVu/DVResultsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I../KalturaClient/KalturaClient/KalturaPlugins -I../KalturaClient/KalturaClient/ASIHTTPRequest -I../KalturaClient/KalturaClient -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-edfjehivncqgowdkayghnpfckday/DejaVu-Prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVResultsViewController.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVResultsViewController.dia -c /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVResultsViewController.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVResultsViewController.o36"26899D79-8973-4259-B897-0AF003C81A53-
+b0BFE0879-9555-4F08-AE2E-B4DA35B83B22
+
+CCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVTagView.o /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVTagView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424523082.189519
+e424523082.956456
+r1
+xCompileC
+xBuild/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVTagView.o
+x/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVTagView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVTagView.m
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVTagView.h
+o/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVTagView.m:68:26: warning: 'sizeWithFont:constrainedToSize:lineBreakMode:' is deprecated: first deprecated in iOS 7.0 - Use -boundingRectWithSize:options:attributes:context: [-Wdeprecated-declarations]
+o    CGSize size =  [text sizeWithFont:[UIFont systemFontOfSize:14.0]
+o                         ^
+oIn module 'UIKit' imported from /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVTagView.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:70:1: note: method 'sizeWithFont:constrainedToSize:lineBreakMode:' declared here
+o- (CGSize)sizeWithFont:(UIFont *)font constrainedToSize:(CGSize)size lineBreakMode:(NSLineBreakMode)lineBreakMode NS_DEPRECATED_IOS(2_0, 7_0, "Use -boundingRectWithSize:options:attributes:context:"); // NSTextAlignment is not needed to determine size
+o^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVTagView.m195"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVTagView.o DejaVu/DVTagView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2fa3304ab54db941^34f7f44ab54db941^-967"/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVTagView.m:68:26: warning: 'sizeWithFont:constrainedToSize:lineBreakMode:' is deprecated: first deprecated in iOS 7.0 - Use -boundingRectWithSize:options:attributes:context: [-Wdeprecated-declarations]    CGSize size =  [text sizeWithFont:[UIFont systemFontOfSize:14.0]                         ^In module 'UIKit' imported from /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVTagView.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:70:1: note: method 'sizeWithFont:constrainedToSize:lineBreakMode:' declared here- (CGSize)sizeWithFont:(UIFont *)font constrainedToSize:(CGSize)size lineBreakMode:(NSLineBreakMode)lineBreakMode NS_DEPRECATED_IOS(2_0, 7_0, "Use -boundingRectWithSize:options:attributes:context:"); // NSTextAlignment is not needed to determine size^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@146"'sizeWithFont:constrainedToSize:lineBreakMode:' is deprecated: first deprecated in iOS 7.0 - Use -boundingRectWithSize:options:attributes:context:-424523082#18446744073709551615#0#1(2@68"Method 'sizeWithFont:constrainedToSize:lineBreakMode:' declared here-424523082#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@190"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^69#0#69#0#4398#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@59"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/DVTagView.m0000000000000000^67#25#67#25#1268#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@59"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/DVTagView.m0000000000000000^4053"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVTagView.o DejaVu/DVTagView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I../KalturaClient/KalturaClient/KalturaPlugins -I../KalturaClient/KalturaClient/ASIHTTPRequest -I../KalturaClient/KalturaClient -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-edfjehivncqgowdkayghnpfckday/DejaVu-Prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVTagView.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVTagView.dia -c /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVTagView.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVTagView.o36"85F15CA6-F92E-4F21-AA8B-E4695EC459B2-
+b0BFE0879-9555-4F08-AE2E-B4DA35B83B22
+
+CCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVVideoPickerViewController.o /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424507823.260347
+e424507823.444488
+r1
+xCompileC
+xBuild/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVVideoPickerViewController.o
+x/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.m
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.h
+d/Users/ryancleeton/Desktop/DejaVu/DVKalturaServerClient.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/KalturaClient.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/KalturaClientBase.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/ASIHttpRequest/ASIHTTPRequestDelegate.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/ASIHttpRequest/ASIProgressDelegate.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/KalturaXmlParsers.h
+o/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.m:101:11: warning: 'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o    [self presentModalViewController:imagePicker animated:YES];
+o          ^
+oIn module 'UIKit' imported from /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:251:1: note: method 'presentModalViewController:animated:' declared here
+o- (void)presentModalViewController:(UIViewController *)modalViewController animated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);
+o^
+o/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.m:106:11: warning: 'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o    [self dismissModalViewControllerAnimated:YES];
+o          ^
+oIn module 'UIKit' imported from /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:254:1: note: method 'dismissModalViewControllerAnimated:' declared here
+o- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);
+o^
+o/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.m:138:11: warning: 'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o    [self dismissModalViewControllerAnimated:YES];
+o          ^
+oIn module 'UIKit' imported from /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:254:1: note: method 'dismissModalViewControllerAnimated:' declared here
+o- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);
+o^
+o3 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.m231"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVVideoPickerViewController.o DejaVu/DVVideoPickerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler15c642af794db941^4bca71af794db941^-2214"/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.m:101:11: warning: 'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]    [self presentModalViewController:imagePicker animated:YES];          ^In module 'UIKit' imported from /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:251:1: note: method 'presentModalViewController:animated:' declared here- (void)presentModalViewController:(UIViewController *)modalViewController animated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);^/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.m:106:11: warning: 'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]    [self dismissModalViewControllerAnimated:YES];          ^In module 'UIKit' imported from /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:254:1: note: method 'dismissModalViewControllerAnimated:' declared here- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);^/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.m:138:11: warning: 'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]    [self dismissModalViewControllerAnimated:YES];          ^In module 'UIKit' imported from /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:254:1: note: method 'dismissModalViewControllerAnimated:' declared here- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);^3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@81"'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0-424507823#18446744073709551615#0#1(2@59"Method 'presentModalViewController:animated:' declared here-424507823#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@191"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^250#0#250#0#13300#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.m0000000000000000^100#10#100#10#4103#0#12"Deprecations--2@80"'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0-424507823#18446744073709551615#0#1(2@58"Method 'dismissModalViewControllerAnimated:' declared here-424507823#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@191"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^253#0#253#0#13586#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.m0000000000000000^105#10#105#10#4287#0#12"Deprecations--2@80"'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0-424507823#18446744073709551615#0#1(2@58"Method 'dismissModalViewControllerAnimated:' declared here-424507823#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@191"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^253#0#253#0#13586#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.m0000000000000000^137#10#137#10#5705#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@77"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.m0000000000000000^4161"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVVideoPickerViewController.o DejaVu/DVVideoPickerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I../KalturaClient/KalturaClient/KalturaPlugins -I../KalturaClient/KalturaClient/ASIHTTPRequest -I../KalturaClient/KalturaClient -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-edfjehivncqgowdkayghnpfckday/DejaVu-Prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVVideoPickerViewController.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVVideoPickerViewController.dia -c /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVVideoPickerViewController.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVVideoPickerViewController.o36"452EB450-8534-4A60-87BE-2E6D5BA786DF-
+b88AAAAE8-6DBC-4AC8-8B8D-7F84AC0F7E1E
+
+CCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVViewController.o /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424523082.933086
+e424523083.354745
+r1
+xCompileC
+xBuild/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVViewController.o
+x/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVViewController.m
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVViewController.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVResultsViewController.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/Network/DVDejaVuServerClient.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVFirstView.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVLoginButton.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVKalturaLoginButton.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVTagView.h
+d/Users/ryancleeton/Desktop/DejaVu/DVKalturaServerClient.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/KalturaClient.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/KalturaClientBase.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/ASIHttpRequest/ASIHTTPRequestDelegate.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/ASIHttpRequest/ASIProgressDelegate.h
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaClient/KalturaClient/KalturaXmlParsers.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVViewController.m209"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVViewController.o DejaVu/DVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3a22ef4ab54db941^fbeb794bb54db941^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/DVViewController.m0000000000000000^4095"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVViewController.o DejaVu/DVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I../KalturaClient/KalturaClient/KalturaPlugins -I../KalturaClient/KalturaClient/ASIHTTPRequest -I../KalturaClient/KalturaClient -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-edfjehivncqgowdkayghnpfckday/DejaVu-Prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVViewController.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVViewController.dia -c /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVViewController.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVViewController.o36"455D6725-C27E-41A5-A5C5-D77E677520D5-
+b0BFE0879-9555-4F08-AE2E-B4DA35B83B22
+
+CCompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/main.o /Users/ryancleeton/Desktop/DejaVu/DejaVu/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424459284.135128
+e424459284.179350
+r1
+xCompileC
+xBuild/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/main.o
+x/Users/ryancleeton/Desktop/DejaVu/DejaVu/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/main.m
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/ryancleeton/Desktop/DejaVu/DejaVu/main.m185"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/main.o DejaVu/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc8b42214bc4cb941^70ec2d14bc4cb941^---0#0#1#-19%DVTDocumentLocation2@54"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/main.m0000000000000000^4023"CompileC Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/main.o DejaVu/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I../KalturaClient/KalturaClient/KalturaPlugins -I../KalturaClient/KalturaClient/ASIHTTPRequest -I../KalturaClient/KalturaClient -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -include /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-edfjehivncqgowdkayghnpfckday/DejaVu-Prefix.pch -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/main.dia -c /Users/ryancleeton/Desktop/DejaVu/DejaVu/main.m -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/main.o36"16BA292D-B09C-4A43-8F02-4CD6040C5715-
+b23D40894-F1DE-4E6E-A1CC-1F2F7EBBEB93
+
+CCompileXIB /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVFirst.xib
+r0
+
+CCompileXIB /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVFirstView.xib
+s424507824.086578
+e424507824.536491
+r1
+xCompileXIB
+x/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVFirstView.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compiling /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVFirstView.xib33"CompileXIB DejaVu/DVFirstView.xib034316b0794db941^925989b0794db941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/DVFirstView.xib0000000000000000^730"CompileXIB DejaVu/DVFirstView.xib    cd /Users/ryancleeton/Desktop/DejaVu    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/DVFirstView.nib /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVFirstView.xib36"26A880DE-8FE0-4D9E-ACE2-FFC78FD20ABC-
+b88AAAAE8-6DBC-4AC8-8B8D-7F84AC0F7E1E
+
+CCompileXIB /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVLoginButton.xib
+s424507824.091123
+e424507825.109082
+r1
+xCompileXIB
+x/Users/ryancleeton/Desktop/DejaVu/DejaVu/DVLoginButton.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compiling /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVLoginButton.xib35"CompileXIB DejaVu/DVLoginButton.xib797417b0794db941^6edb1bb1794db941^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/DVLoginButton.xib0000000000000000^736"CompileXIB DejaVu/DVLoginButton.xib    cd /Users/ryancleeton/Desktop/DejaVu    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/DVLoginButton.nib /Users/ryancleeton/Desktop/DejaVu/DejaVu/DVLoginButton.xib36"92AB2013-4955-4666-BCA1-CB78B7035958-
+b88AAAAE8-6DBC-4AC8-8B8D-7F84AC0F7E1E
+
+CCompileXIB /Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaLoginView.xib
+s424507824.087182
+e424507825.141551
+r1
+xCompileXIB
+x/Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaLoginView.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compiling /Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaLoginView.xib38"CompileXIB DejaVu/KalturaLoginView.xibcb6616b0794db941^683d24b1794db941^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaLoginView.xib0000000000000000^745"CompileXIB DejaVu/KalturaLoginView.xib    cd /Users/ryancleeton/Desktop/DejaVu    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/KalturaLoginView.nib /Users/ryancleeton/Desktop/DejaVu/DejaVu/KalturaLoginView.xib36"6901C41E-C94D-488E-AB71-091E55F452E2-
+b88AAAAE8-6DBC-4AC8-8B8D-7F84AC0F7E1E
+
+CCopyStringsFile /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/en.lproj/InfoPlist.strings DejaVu/en.lproj/InfoPlist.strings
+s424456490.228303
+e424456490.234641
+r1
+xCopyStringsFile
+x/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/en.lproj/InfoPlist.strings
+xDejaVu/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Copy DejaVu/en.lproj/InfoPlist.strings124"CopyStringsFile Build/Products/Debug-iphonesimulator/DejaVu.app/en.lproj/InfoPlist.strings DejaVu/en.lproj/InfoPlist.strings0e863a2ab14cb941^06123c2ab14cb941^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/en.lproj/InfoPlist.strings0000000000000000^579"CopyStringsFile Build/Products/Debug-iphonesimulator/DejaVu.app/en.lproj/InfoPlist.strings DejaVu/en.lproj/InfoPlist.strings    cd /Users/ryancleeton/Desktop/DejaVu    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/en.lproj -- DejaVu/en.lproj/InfoPlist.strings36"8DB329FC-A72C-41C8-AC4E-2847FEC93B66-
+b9E3B28E3-0B76-41E4-81E3-3F10BD06CCD1
+
+CCpResource DejaVu/X.png Build/Products/Debug-iphonesimulator/DejaVu.app/X.png
+s424507824.537016
+e424507824.538264
+r1
+xCpResource
+xDejaVu/X.png
+xBuild/Products/Debug-iphonesimulator/DejaVu.app/X.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy Build/Products/Debug-iphonesimulator/DejaVu.app/X.png77"CpResource DejaVu/X.png Build/Products/Debug-iphonesimulator/DejaVu.app/X.png558a89b0794db941^5a108ab0794db941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/X.png0034b89fdcffdf42^555"CpResource DejaVu/X.png Build/Products/Debug-iphonesimulator/DejaVu.app/X.png    cd /Users/ryancleeton/Desktop/DejaVu    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ryancleeton/Desktop/DejaVu/DejaVu/X.png /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app36"A1818E23-3BED-49B8-ACC1-CA9DDFA86CE0-
+b88AAAAE8-6DBC-4AC8-8B8D-7F84AC0F7E1E
+
+CCpResource DejaVu/big-dejavu-logo.png Build/Products/Debug-iphonesimulator/DejaVu.app/big-dejavu-logo.png
+s424507824.538632
+e424507824.539620
+r1
+xCpResource
+xDejaVu/big-dejavu-logo.png
+xBuild/Products/Debug-iphonesimulator/DejaVu.app/big-dejavu-logo.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy Build/Products/Debug-iphonesimulator/DejaVu.app/big-dejavu-logo.png105"CpResource DejaVu/big-dejavu-logo.png Build/Products/Debug-iphonesimulator/DejaVu.app/big-dejavu-logo.pngd8f389b0794db941^30298ab0794db941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/big-dejavu-logo.png0034b89fdcffdf42^597"CpResource DejaVu/big-dejavu-logo.png Build/Products/Debug-iphonesimulator/DejaVu.app/big-dejavu-logo.png    cd /Users/ryancleeton/Desktop/DejaVu    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ryancleeton/Desktop/DejaVu/DejaVu/big-dejavu-logo.png /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app36"AB7DC1FE-42A7-4B3D-9096-A042947213B5-
+b88AAAAE8-6DBC-4AC8-8B8D-7F84AC0F7E1E
+
+CCpResource DejaVu/dejavu-backgroun.png Build/Products/Debug-iphonesimulator/DejaVu.app/dejavu-backgroun.png
+s424507824.088537
+e424507824.090631
+r1
+xCpResource
+xDejaVu/dejavu-backgroun.png
+xBuild/Products/Debug-iphonesimulator/DejaVu.app/dejavu-backgroun.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy Build/Products/Debug-iphonesimulator/DejaVu.app/dejavu-backgroun.png107"CpResource DejaVu/dejavu-backgroun.png Build/Products/Debug-iphonesimulator/DejaVu.app/dejavu-backgroun.pngcbbb16b0794db941^113717b0794db941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/dejavu-backgroun.png0034b89fdcffdf42^600"CpResource DejaVu/dejavu-backgroun.png Build/Products/Debug-iphonesimulator/DejaVu.app/dejavu-backgroun.png    cd /Users/ryancleeton/Desktop/DejaVu    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ryancleeton/Desktop/DejaVu/DejaVu/dejavu-backgroun.png /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app36"9F54D344-3662-4515-9556-232ACC645A92-
+b88AAAAE8-6DBC-4AC8-8B8D-7F84AC0F7E1E
+
+CCpResource DejaVu/facebookbutton.png Build/Products/Debug-iphonesimulator/DejaVu.app/facebookbutton.png
+s424507824.086695
+e424507824.088172
+r1
+xCpResource
+xDejaVu/facebookbutton.png
+xBuild/Products/Debug-iphonesimulator/DejaVu.app/facebookbutton.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy Build/Products/Debug-iphonesimulator/DejaVu.app/facebookbutton.png103"CpResource DejaVu/facebookbutton.png Build/Products/Debug-iphonesimulator/DejaVu.app/facebookbutton.png734816b0794db941^ae9b16b0794db941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/facebookbutton.png0034b89fdcffdf42^594"CpResource DejaVu/facebookbutton.png Build/Products/Debug-iphonesimulator/DejaVu.app/facebookbutton.png    cd /Users/ryancleeton/Desktop/DejaVu    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ryancleeton/Desktop/DejaVu/DejaVu/facebookbutton.png /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app36"CFA97E63-5294-41E7-A7DF-F37111FAE932-
+b88AAAAE8-6DBC-4AC8-8B8D-7F84AC0F7E1E
+
+CCpResource DejaVu/kalturabutton.png Build/Products/Debug-iphonesimulator/DejaVu.app/kalturabutton.png
+s424507824.540031
+e424507824.541002
+r1
+xCpResource
+xDejaVu/kalturabutton.png
+xBuild/Products/Debug-iphonesimulator/DejaVu.app/kalturabutton.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy Build/Products/Debug-iphonesimulator/DejaVu.app/kalturabutton.png101"CpResource DejaVu/kalturabutton.png Build/Products/Debug-iphonesimulator/DejaVu.app/kalturabutton.pngbe4e8ab0794db941^73828ab0794db941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/kalturabutton.png0034b89fdcffdf42^591"CpResource DejaVu/kalturabutton.png Build/Products/Debug-iphonesimulator/DejaVu.app/kalturabutton.png    cd /Users/ryancleeton/Desktop/DejaVu    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ryancleeton/Desktop/DejaVu/DejaVu/kalturabutton.png /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app36"59BF9B41-6C3B-4801-8C4C-F6791FE42344-
+b88AAAAE8-6DBC-4AC8-8B8D-7F84AC0F7E1E
+
+CCpResource DejaVu/small-dejavu-logo.png Build/Products/Debug-iphonesimulator/DejaVu.app/small-dejavu-logo.png
+s424507824.541283
+e424507824.542262
+r1
+xCpResource
+xDejaVu/small-dejavu-logo.png
+xBuild/Products/Debug-iphonesimulator/DejaVu.app/small-dejavu-logo.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy Build/Products/Debug-iphonesimulator/DejaVu.app/small-dejavu-logo.png109"CpResource DejaVu/small-dejavu-logo.png Build/Products/Debug-iphonesimulator/DejaVu.app/small-dejavu-logo.png30a18ab0794db941^45d68ab0794db941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/small-dejavu-logo.png0034b89fdcffdf42^603"CpResource DejaVu/small-dejavu-logo.png Build/Products/Debug-iphonesimulator/DejaVu.app/small-dejavu-logo.png    cd /Users/ryancleeton/Desktop/DejaVu    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ryancleeton/Desktop/DejaVu/DejaVu/small-dejavu-logo.png /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app36"9B8DF791-9D4F-4E08-8D4B-75534615D663-
+b88AAAAE8-6DBC-4AC8-8B8D-7F84AC0F7E1E
+
+CGenerateDSYMFile /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app.dSYM /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/DejaVu
+s424523084.419685
+e424523085.089553
+r1
+xGenerateDSYMFile
+x/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app.dSYM
+x/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/DejaVu
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Generate /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app.dSYM124"GenerateDSYMFile Build/Products/Debug-iphonesimulator/DejaVu.app.dSYM Build/Products/Debug-iphonesimulator/DejaVu.app/DejaVu527d6b4cb54db941^6ff3164db54db941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app.dSYM/0000000000000000^640"GenerateDSYMFile Build/Products/Debug-iphonesimulator/DejaVu.app.dSYM Build/Products/Debug-iphonesimulator/DejaVu.app/DejaVu    cd /Users/ryancleeton/Desktop/DejaVu    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/DejaVu -o /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app.dSYM36"ABDBFAD3-BE2A-4E69-BA19-D2E6A957F5A3-
+b0BFE0879-9555-4F08-AE2E-B4DA35B83B22
+
+CLd /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/DejaVu normal i386
+s424523083.358124
+e424523084.413865
+r1
+xLd
+x/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/DejaVu
+xnormal
+xi386
+d/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DejaVu.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVDejaVuServerClient.o
+d/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVResultsViewController.o
+d/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVAppDelegate.o
+d/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVTagView.o
+d/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVVideoPickerViewController.o
+d/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVResultsHeaderView.o
+d/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVViewController.o
+d/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/main.o
+d/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVFirstView.o
+d/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVLoginButton.o
+d/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaServerClient.o
+d/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVMoviePlayerViewController.o
+d/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DVKalturaLoginButton.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accounts.framework/Accounts
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Social.framework/Social
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+d/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/libKalturaClient.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libxml2.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/libPods-DejaVu.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AdSupport.framework/AdSupport
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Link /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/DejaVu69"Ld Build/Products/Debug-iphonesimulator/DejaVu.app/DejaVu normal i38644c25b4bb54db941^1bf4694cb54db941^---0#0#1#--1801"Ld Build/Products/Debug-iphonesimulator/DejaVu.app/DejaVu normal i386    cd /Users/ryancleeton/Desktop/DejaVu    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -filelist /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DejaVu.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework CoreGraphics -framework CoreLocation -framework MobileCoreServices -framework Security -framework SystemConfiguration -weak_framework Accounts -weak_framework Security -weak_framework Social -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework AVFoundation -framework MediaPlayer /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/libKalturaClient.a -framework SystemConfiguration -framework MobileCoreServices -framework CFNetwork -lxml2 -lz -framework CoreGraphics -framework UIKit -framework Foundation -lPods-DejaVu -Xlinker -dependency_info -Xlinker /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Objects-normal/i386/DejaVu_dependency_info.dat -o /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/DejaVu36"FD9C8736-AAEB-4578-9DB2-AE06E3A3737E-
+b0BFE0879-9555-4F08-AE2E-B4DA35B83B22
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Script-77713838FC5C4DA7B99C168D.sh
+s424523082.123659
+e424523082.181269
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Script-77713838FC5C4DA7B99C168D.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'150"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Script-77713838FC5C4DA7B99C168D.sh7ea8204ab54db941^bac03d4ab54db941^---0#0#1#--344"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Script-77713838FC5C4DA7B99C168D.sh    cd /Users/ryancleeton/Desktop/DejaVu    /bin/sh -c /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Script-77713838FC5C4DA7B99C168D.sh36"5A7176F0-5129-4C34-99B4-2ACFB7EDE13E-
+b0BFE0879-9555-4F08-AE2E-B4DA35B83B22
+
+CPhaseScriptExecution Copy\ Pods\ Resources /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Script-CB984F7A7DC8437F865AB089.sh
+s424523085.090738
+e424523086.476304
+r1
+xPhaseScriptExecution
+xCopy Pods Resources
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Script-CB984F7A7DC8437F865AB089.sh
+o/Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/FBUserSettingsViewResources.bundle
+obuilding file list ... done
+o
+osent 515 bytes  received 20 bytes  1070.00 bytes/sec
+ototal size is 1071435  speedup is 2002.68
+o/* com.apple.actool.document.warnings */
+o/Users/ryancleeton/Desktop/DejaVu/DejaVu/Images.xcassets:./LaunchImage.launchimage/[iphone][][2x][portrait][full-screen][7.0]: warning: LaunchImage.launchimage/iOS Simulator Screen shot Jun 15, 2014, 2.50.57 AM.png is 640x1136 but should be 640x960.
+o/* com.apple.actool.compilation-results */
+o/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/Assets.car
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'145"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Script-CB984F7A7DC8437F865AB089.sh9eb1174db54db941^74ef794eb54db941^-647"/Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/FBUserSettingsViewResources.bundlebuilding file list ... donesent 515 bytes  received 20 bytes  1070.00 bytes/sectotal size is 1071435  speedup is 2002.68/* com.apple.actool.document.warnings *//Users/ryancleeton/Desktop/DejaVu/DejaVu/Images.xcassets:./LaunchImage.launchimage/[iphone][][2x][portrait][full-screen][7.0]: warning: LaunchImage.launchimage/iOS Simulator Screen shot Jun 15, 2014, 2.50.57 AM.png is 640x1136 but should be 640x960./* com.apple.actool.compilation-results *//Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/Assets.car8(21%IDEActivityLogMessage2@95"/Users/ryancleeton/Desktop/DejaVu/Pods/Facebook-iOS-SDK/src/FBUserSettingsViewResources.bundle-424523085#0#95#-0#-----2@28"building file list ... done-424523085#95#28#-0#-----2@53"sent 515 bytes  received 20 bytes  1070.00 bytes/sec-424523085#124#53#-0#-----2@42"total size is 1071435  speedup is 2002.68-424523085#177#42#-0#-----2@41"/* com.apple.actool.document.warnings */-424523086#219#41#-0#-----2@250"/Users/ryancleeton/Desktop/DejaVu/DejaVu/Images.xcassets:./LaunchImage.launchimage/[iphone][][2x][portrait][full-screen][7.0]: warning: LaunchImage.launchimage/iOS Simulator Screen shot Jun 15, 2014, 2.50.57 AM.png is 640x1136 but should be 640x960.-424523086#260#250#-0#-----2@43"/* com.apple.actool.compilation-results */-424523086#510#43#-0#-----2@93"/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/Assets.car-424523086#553#93#-0#-----0#0#1#--339"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Script-CB984F7A7DC8437F865AB089.sh    cd /Users/ryancleeton/Desktop/DejaVu    /bin/sh -c /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/Script-CB984F7A7DC8437F865AB089.sh36"609F8BD6-021A-4782-B0D0-E2760BEDB499-
+b0BFE0879-9555-4F08-AE2E-B4DA35B83B22
+
+CProcessInfoPlistFile /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/Info.plist /Users/ryancleeton/Desktop/DejaVu/DejaVu/DejaVu-Info.plist
+s424511051.342206
+e424511051.343547
+r1
+xProcessInfoPlistFile
+x/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/Info.plist
+x/Users/ryancleeton/Desktop/DejaVu/DejaVu/DejaVu-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Process /Users/ryancleeton/Desktop/DejaVu/DejaVu/DejaVu-Info.plist104"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/DejaVu.app/Info.plist DejaVu/DejaVu-Info.plist59a6574b864db941^bff3574b864db941^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/DejaVu-Info.plist0000000000000000^848"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/DejaVu.app/Info.plist DejaVu/DejaVu-Info.plist    cd /Users/ryancleeton/Desktop/DejaVu    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/ryancleeton/Desktop/DejaVu/DejaVu/DejaVu-Info.plist -genpkginfo /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/assetcatalog_generated_info.plist -o /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app/Info.plist36"69B472B9-7F78-4506-A22F-9C390DB5683D-
+b5D06C59B-53F2-41AC-988A-AED49C6C000A
+
+CProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-edfjehivncqgowdkayghnpfckday/DejaVu-Prefix.pch.pch DejaVu/DejaVu-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424459283.981679
+e424459284.021525
+r1
+xProcessPCH
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-edfjehivncqgowdkayghnpfckday/DejaVu-Prefix.pch.pch
+xDejaVu/DejaVu-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DejaVu-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile DejaVu/DejaVu-Prefix.pch207"ProcessPCH Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-edfjehivncqgowdkayghnpfckday/DejaVu-Prefix.pch.pch DejaVu/DejaVu-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0e6afb13bc4cb941^62830514bc4cb941^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/DejaVu-Prefix.pch0000000000000000^3943"ProcessPCH Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-edfjehivncqgowdkayghnpfckday/DejaVu-Prefix.pch.pch DejaVu/DejaVu-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I../KalturaClient/KalturaClient/KalturaPlugins -I../KalturaClient/KalturaClient/ASIHTTPRequest -I../KalturaClient/KalturaClient -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Bolts -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/Facebook-iOS-SDK/FacebookSDK --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-edfjehivncqgowdkayghnpfckday/DejaVu-Prefix.pch.dia -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-edfjehivncqgowdkayghnpfckday/DejaVu-Prefix.pch.d -c /Users/ryancleeton/Desktop/DejaVu/DejaVu/DejaVu-Prefix.pch -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-edfjehivncqgowdkayghnpfckday/DejaVu-Prefix.pch.pch36"E1D98D97-28F0-4496-BE57-355770C0B609-
+b23D40894-F1DE-4E6E-A1CC-1F2F7EBBEB93
+
+CProcessPCH /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-hikvmlhvkqqngsdhsxwruhkjbaos/DejaVu-Prefix.pch.pch DejaVu/DejaVu-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424456184.737400
+e424456184.775783
+r1
+xProcessPCH
+x/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-hikvmlhvkqqngsdhsxwruhkjbaos/DejaVu-Prefix.pch.pch
+xDejaVu/DejaVu-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryancleeton/Desktop/DejaVu/DejaVu/DejaVu-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile DejaVu/DejaVu-Prefix.pch207"ProcessPCH Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-hikvmlhvkqqngsdhsxwruhkjbaos/DejaVu-Prefix.pch.pch DejaVu/DejaVu-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler40d9bcf8af4cb941^079bc6f8af4cb941^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/ryancleeton/Desktop/DejaVu/DejaVu/DejaVu-Prefix.pch0000000000000000^3723"ProcessPCH Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-hikvmlhvkqqngsdhsxwruhkjbaos/DejaVu-Prefix.pch.pch DejaVu/DejaVu-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryancleeton/Desktop/DejaVu    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryancleeton/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-generated-files.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-own-target-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-all-target-headers.hmap -iquote /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DejaVu-project-headers.hmap -I/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/include -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers -I/Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking -I../KalturaClient/KalturaClient/KalturaPlugins -I../KalturaClient/KalturaClient/ASIHTTPRequest -I../KalturaClient/KalturaClient -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources/i386 -I/Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/DejaVu.build/Debug-iphonesimulator/DejaVu.build/DerivedSources -F/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers -isystem /Users/ryancleeton/Desktop/DejaVu/Pods/Headers/AFNetworking --serialize-diagnostics /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-hikvmlhvkqqngsdhsxwruhkjbaos/DejaVu-Prefix.pch.dia -MMD -MT dependencies -MF /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-hikvmlhvkqqngsdhsxwruhkjbaos/DejaVu-Prefix.pch.d -c /Users/ryancleeton/Desktop/DejaVu/DejaVu/DejaVu-Prefix.pch -o /Users/ryancleeton/Desktop/DejaVu/Build/Intermediates/PrecompiledHeaders/DejaVu-Prefix-hikvmlhvkqqngsdhsxwruhkjbaos/DejaVu-Prefix.pch.pch36"668E5A34-7315-4C42-81AD-4ABF4316F108-
+b9C4412DA-8383-4507-92E6-ED821499609F
+
+CProcessPCH /Users/ryancleeton/Library/Developer/Xcode/DerivedData/DejaVu-ftudxcidwqcisogomqcznllrrkmr/Index/PrecompiledHeaders/DejaVu-Prefix-dqzcggfidxbtkudtnjeanlincfru_ast/DejaVu-Prefix.pch.pch DejaVu/DejaVu-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/ryancleeton/Library/Developer/Xcode/DerivedData/DejaVu-ftudxcidwqcisogomqcznllrrkmr/Index/PrecompiledHeaders/DejaVu-Prefix-govynzpmvsexgsfagqibhesjbibg_ast/DejaVu-Prefix.pch.pch DejaVu/DejaVu-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app
+s424466101.581171
+e424466101.586369
+r1
+xTouch
+x/Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Touch /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app53"Touch Build/Products/Debug-iphonesimulator/DejaVu.app6bd394b5d64cb941^352896b5d64cb941^---0#0#1#--394"Touch Build/Products/Debug-iphonesimulator/DejaVu.app    cd /Users/ryancleeton/Desktop/DejaVu    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ryancleeton/Desktop/DejaVu/Build/Products/Debug-iphonesimulator/DejaVu.app36"8E33AC4C-D98D-46C5-8FED-0AD04A02B4A0-
+b6689E432-3B8D-4F0A-9850-A68ED1F84559
+
